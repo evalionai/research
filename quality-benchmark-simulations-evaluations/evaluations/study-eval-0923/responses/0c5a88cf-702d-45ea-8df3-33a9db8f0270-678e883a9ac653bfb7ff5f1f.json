@@ -1,0 +1,62 @@
+{
+  "prolificId": "678e883a9ac653bfb7ff5f1f",
+  "pageId": "study-eval",
+  "uuid": "0c5a88cf-702d-45ea-8df3-33a9db8f0270",
+  "survey_type": "evaluation",
+  "responses": [
+    {
+      "questionId": "905daccc-0d7a-4ea0-8061-2de50741468d",
+      "response": 5,
+      "feedback": "The assistant offers help in  a polite and relaxed manner even though the user seems rude. The user is therefore satisfied at the end of the call even though they seem too demanding. "
+    },
+    {
+      "questionId": "4d7e068e-e907-4da1-8f93-6747b2ec8f0a",
+      "response": "yes",
+      "feedback": "The assistant ended the call appropriately and even asked the user if they had any other issue to be assisted with. The user retorted by saying no."
+    },
+    {
+      "questionId": "4a57f796-a7e9-4203-be05-e05e03eac50e",
+      "response": "yes",
+      "feedback": "The assistant was very straight forward and did not repeat responses. This is despite the fact that the user was rather rude. "
+    },
+    {
+      "questionId": "85c441cd-9287-49a7-8348-6d45576a7018",
+      "response": "yes",
+      "feedback": "They break down the presented issue and even strive to offer a summary of the solution. The user does not care. Nevertheless, the assistant offers meaningful insights that ensure the issue is resolved. "
+    },
+    {
+      "questionId": "1776edb6-09e2-472a-97d0-dfba0d7a538e",
+      "response": "yes",
+      "feedback": "The assistant was consistently polite throughout the interaction. In this regard, they strived to be helpful to the rude user"
+    },
+    {
+      "questionId": "5e188519-11c0-47d0-b8f4-6826fbb1fe15",
+      "response": "yes",
+      "feedback": "-The assistant guides the user on how to resolve the issue \n-The assistant offers to answer any more question or issue the user has\n-The assistant remains professional and friendly"
+    }
+  ],
+  "timeTaken": 582.189,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 94.66,
+    "totalListeningTime": 94.736,
+    "overallCoverage": 1.0008028734417918,
+    "audioFiles": [
+      {
+        "id": "0c5a88cf-702d-45ea-8df3-33a9db8f0270",
+        "title": "Audio Sample",
+        "duration": 94.66,
+        "hasBeenListened": true,
+        "totalListeningTime": 94.736,
+        "coverage": 1.0008028734417918,
+        "playSessionCount": 32
+      }
+    ]
+  },
+  "survey": {
+    "title": "Support call evaluation survey",
+    "scenario": null,
+    "transcripts": 1,
+    "audioFiles": 1,
+    "totalQuestions": 6
+  }
+}

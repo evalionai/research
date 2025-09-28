@@ -1,0 +1,121 @@
+{
+  "prolificId": "67325c4378284747ceca9bef",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "7d9bb4ab-e396-4926-a55d-21302c05bbef",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": "Every facet of the situation is covered in the left recording, including managing the lawyer and notary, entering their information, and verifying the borrower's preferred schedule. The correct recording gives less direction and omits important details."
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": "All of the scenario's concerns are covered in the left recording, including notifying the lawyer and notary of the closing, entering their information, and verifying the borrower's chosen timeslots. The correct recording omits certain details and merely offers general direction."
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 780.226,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 224.6,
+    "totalListeningTime": 232.599,
+    "overallCoverage": 1.0356144256455921,
+    "audioFiles": [
+      {
+        "id": "0ab0e064-dd80-49ae-8a25-91ffe6020387",
+        "title": "Audio Sample 1",
+        "duration": 124.66,
+        "hasBeenListened": true,
+        "totalListeningTime": 131.549,
+        "coverage": 1.0552623134927002,
+        "playSessionCount": 49
+      },
+      {
+        "id": "9b70d760-e29d-4f8b-b5f2-13b152fe932c",
+        "title": "Audio Sample 2",
+        "duration": 99.94,
+        "hasBeenListened": true,
+        "totalListeningTime": 101.05,
+        "coverage": 1.011106663998399,
+        "playSessionCount": 40
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You want to share a closing (loan signing process) with both an attorney and a notary, but one has no account and the other already does. Afterward you also want to confirm borrower-preferred scheduling slots.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

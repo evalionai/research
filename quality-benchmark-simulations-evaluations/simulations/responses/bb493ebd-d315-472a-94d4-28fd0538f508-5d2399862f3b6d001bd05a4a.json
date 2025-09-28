@@ -1,0 +1,121 @@
+{
+  "prolificId": "5d2399862f3b6d001bd05a4a",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "bb493ebd-d315-472a-94d4-28fd0538f508",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Right recording",
+      "feedback": "there were too much interference in the left recordings , so the communication wasn't really clear. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Right recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 1648.931,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 164.8,
+    "totalListeningTime": 909.734,
+    "overallCoverage": 5.520230582524272,
+    "audioFiles": [
+      {
+        "id": "1c75df8e-1d06-4007-b036-f6039a9bba65",
+        "title": "Audio Sample 1",
+        "duration": 93.74,
+        "hasBeenListened": true,
+        "totalListeningTime": 539.239,
+        "coverage": 5.752496266268403,
+        "playSessionCount": 281
+      },
+      {
+        "id": "f891115e-5c37-4454-b4a0-ba38f0a66900",
+        "title": "Audio Sample 2",
+        "duration": 71.06,
+        "hasBeenListened": true,
+        "totalListeningTime": 370.495,
+        "coverage": 5.213833380242049,
+        "playSessionCount": 195
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You are a settlement agent. You shared a closing (loan signing process) with a notary. The notary claims they completed their profile in the application but you still can't see their phone number in the Contacts tab. You also need to know if you can set a default notary for all your closings.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

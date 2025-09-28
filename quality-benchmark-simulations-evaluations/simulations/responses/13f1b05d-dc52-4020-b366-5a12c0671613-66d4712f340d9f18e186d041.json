@@ -1,0 +1,121 @@
+{
+  "prolificId": "66d4712f340d9f18e186d041",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "13f1b05d-dc52-4020-b366-5a12c0671613",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": "The left recording sounded mad but the right recording was frustrated and sounded more human to me. The left was 1 note, just annoyed, the right has some range so I will say right but I am not sure if left matches better because they were clearly annoyed. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Right recording",
+      "feedback": "\"cooperative\" for me is the word that trips me up, left was mad but still did it, like a coworker who accomplishes tasks but complained the whole time. I guess cooperative includes action as well as attitude? If so right. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Right recording",
+      "feedback": "They are both pushy and demanding but the right recording seems frustrated by the situation and the left recording seems frustrated at the situation and the assistant. "
+    }
+  ],
+  "timeTaken": 956.921,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 461.78,
+    "totalListeningTime": 461.943,
+    "overallCoverage": 1.0003529819394517,
+    "audioFiles": [
+      {
+        "id": "05cbfba7-5e1f-4e8c-9b9d-36cd3622d028",
+        "title": "Audio Sample 1",
+        "duration": 239.82,
+        "hasBeenListened": true,
+        "totalListeningTime": 239.918,
+        "coverage": 1.0004086398131933,
+        "playSessionCount": 92
+      },
+      {
+        "id": "a4c6c5b4-1cae-4286-8aad-49ee0ddec9b0",
+        "title": "Audio Sample 2",
+        "duration": 221.96,
+        "hasBeenListened": true,
+        "totalListeningTime": 222.025,
+        "coverage": 1.0002928455577582,
+        "playSessionCount": 87
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to activate your account, then immediately schedule a closing (loan signing process), and finally share the closing package with another agent.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

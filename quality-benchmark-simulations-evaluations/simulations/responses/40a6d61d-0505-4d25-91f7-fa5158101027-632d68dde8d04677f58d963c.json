@@ -1,0 +1,121 @@
+{
+  "prolificId": "632d68dde8d04677f58d963c",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "40a6d61d-0505-4d25-91f7-fa5158101027",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": "The right recording literally did nothing at all that lined up with the script. They just repeated okay"
+    }
+  ],
+  "timeTaken": 148.149,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 72.88,
+    "totalListeningTime": 73.035,
+    "overallCoverage": 1.0021267837541163,
+    "audioFiles": [
+      {
+        "id": "1ef3631b-5364-42fa-908d-f9a4a1ee115d",
+        "title": "Audio Sample 1",
+        "duration": 31.74,
+        "hasBeenListened": true,
+        "totalListeningTime": 31.813,
+        "coverage": 1.0022999369880277,
+        "playSessionCount": 12
+      },
+      {
+        "id": "1d8145b3-8b0c-47cf-bea5-5a8849a8d3fe",
+        "title": "Audio Sample 2",
+        "duration": 41.14,
+        "hasBeenListened": true,
+        "totalListeningTime": 41.222,
+        "coverage": 1.0019931939718036,
+        "playSessionCount": 17
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You have a list of 4 very specific feature requests, framed as questions. 1. \"How do I set up a rule to auto-assign all loans from 'Lender X' to my 'High-Value' team?\" 2. \"Where is the audit log to see which team member downloaded a closing package?\" 3. \"How do I generate a report of all my closings from last quarter?\" 4. \"How do I reset my password?\".",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

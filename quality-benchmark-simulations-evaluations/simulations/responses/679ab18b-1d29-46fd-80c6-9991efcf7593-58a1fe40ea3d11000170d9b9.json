@@ -1,0 +1,121 @@
+{
+  "prolificId": "58a1fe40ea3d11000170d9b9",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "679ab18b-1d29-46fd-80c6-9991efcf7593",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Right recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 420.882,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 158.86,
+    "totalListeningTime": 159.023,
+    "overallCoverage": 1.0010260606823618,
+    "audioFiles": [
+      {
+        "id": "605611cb-1d9e-4475-acf6-cc651b1ef705",
+        "title": "Audio Sample 1",
+        "duration": 41.02,
+        "hasBeenListened": true,
+        "totalListeningTime": 41.104,
+        "coverage": 1.0020477815699658,
+        "playSessionCount": 17
+      },
+      {
+        "id": "f1134aea-9ffc-42b7-8241-396fe971ef4d",
+        "title": "Audio Sample 2",
+        "duration": 117.84,
+        "hasBeenListened": true,
+        "totalListeningTime": 117.919,
+        "coverage": 1.0006704005431093,
+        "playSessionCount": 42
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You want to share a closing (loan signing process) with both an attorney and a notary, but one has no account and the other already does. Afterward you also want to confirm borrower-preferred scheduling slots.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

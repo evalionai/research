@@ -1,0 +1,121 @@
+{
+  "prolificId": "5d3695969749cc00165c222f",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "5d0d95d4-ff36-4ec2-99b9-da7c7b51f01f",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": "I feel that they didn't message all problems in either"
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": "option 1 didn't state any 4 feature requests"
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": "both were combative and didn't want to reach a solution"
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": "both were rude"
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": "both felt it was a waste of time"
+    }
+  ],
+  "timeTaken": 202.962,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 125.205,
+    "totalListeningTime": 125.38,
+    "overallCoverage": 1.0013977077592748,
+    "audioFiles": [
+      {
+        "id": "b8b97c48-7e8a-4c1c-bfee-25a6e92a9951",
+        "title": "Audio Sample 1",
+        "duration": 19.02,
+        "hasBeenListened": true,
+        "totalListeningTime": 19.114,
+        "coverage": 1.0049421661409044,
+        "playSessionCount": 9
+      },
+      {
+        "id": "9b5d41eb-2b27-4013-8f2b-7e150eef7340",
+        "title": "Audio Sample 2",
+        "duration": 106.185,
+        "hasBeenListened": true,
+        "totalListeningTime": 106.266,
+        "coverage": 1.0007628196072893,
+        "playSessionCount": 49
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You have a list of 4 very specific feature requests, framed as questions. 1. \"How do I set up a rule to auto-assign all loans from 'Lender X' to my 'High-Value' team?\" 2. \"Where is the audit log to see which team member downloaded a closing package?\" 3. \"How do I generate a report of all my closings from last quarter?\" 4. \"How do I reset my password?\".",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

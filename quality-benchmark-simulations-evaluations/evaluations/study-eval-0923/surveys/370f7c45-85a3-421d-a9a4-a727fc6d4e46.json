@@ -1,0 +1,295 @@
+{
+  "file_data": {
+    "uuid": "298f50c4-cbc9-40ef-aa7e-26686efa181c",
+    "survey_type": "evaluation",
+    "title": "Support call evaluation survey",
+    "header_description": "Please listen to the following recording of a call between a customer of B********s and one of the company's support agents.\nB********s makes software that helps people and lenders manage loans and closings online.\nYou can also read the transcript of that call.\nFinally answer the following questions about the call."
+  },
+  "recordings": [
+    {
+      "id": "298f50c4-cbc9-40ef-aa7e-26686efa181c",
+      "title": "Audio Sample",
+      "transcript": [
+        {
+          "role": "assistant",
+          "content": "*****. **** ** **** **** *****. *** *** * **** ***?",
+          "start_time": 0.0,
+          "end_time": 2.799
+        },
+        {
+          "role": "user",
+          "content": "* **** * *** ********* ***** **** ****** ********. ***'* ***** **** ****.",
+          "start_time": 5.12,
+          "end_time": 9.119
+        },
+        {
+          "role": "user",
+          "content": "*** ** * *** ** ********** ***** ****** **** ********?",
+          "start_time": 9.839,
+          "end_time": 12.24
+        },
+        {
+          "role": "assistant",
+          "content": "*'* ****** ********** ***'* ******* ** *** **** * **** ****** **. ***** *** **** ********** **** * **************?",
+          "start_time": 15.095,
+          "end_time": 21.015
+        },
+        {
+          "role": "user",
+          "content": "* **** ******** ****. *** *** **** ** ***** ** *** ****** * ********* ********** ***** ********?",
+          "start_time": 28.47,
+          "end_time": 33.19
+        },
+        {
+          "role": "assistant",
+          "content": "******* ** ********** ***** ***'* **** ** *** ********* ****.",
+          "start_time": 35.789,
+          "end_time": 39.469
+        },
+        {
+          "role": "assistant",
+          "content": "*** * ******* *** **** * ***** ************** ** ****** *******?",
+          "start_time": 39.63,
+          "end_time": 42.51
+        },
+        {
+          "role": "user",
+          "content": "**. * **** ** *** ******* **** ***. ****** **** ** ***** ******* ********** ***** *** ********** ** *** ********.",
+          "start_time": 45.204,
+          "end_time": 50.965
+        },
+        {
+          "role": "assistant",
+          "content": "* ********** **** *******, *** ************* ***** ****'* ** *** **** * ****. ****** ***** *** ** * ***** ************** *** ******** ********.",
+          "start_time": 53.565,
+          "end_time": 61.729
+        },
+        {
+          "role": "user",
+          "content": "****. ***** ***.",
+          "start_time": 64.495,
+          "end_time": 66.015
+        },
+        {
+          "role": "user",
+          "content": "****.",
+          "start_time": 66.655,
+          "end_time": 67.375
+        },
+        {
+          "role": "user",
+          "content": "***** *** * **** *** ***** **** ** ***** ****** ***",
+          "start_time": 67.534,
+          "end_time": 69.935
+        },
+        {
+          "role": "assistant",
+          "content": "***** ***.",
+          "start_time": 68.45,
+          "end_time": 68.849
+        },
+        {
+          "role": "user",
+          "content": "***** ******* *** * ****** *** ***** **** ** *** ***",
+          "start_time": 71.135,
+          "end_time": 73.534
+        },
+        {
+          "role": "assistant",
+          "content": "*",
+          "start_time": 71.144,
+          "end_time": 89.465
+        },
+        {
+          "role": "user",
+          "content": "*'* *****? * ****'* ***** ****. ***** *** ****** ******* ***** ** *** ****** * **** *** ***** ****?",
+          "start_time": 80.04,
+          "end_time": 85.079
+        },
+        {
+          "role": "assistant",
+          "content": "*'* *****, *** **** ** ********* ***** **** ***'* ** *** **** * ****. ****** ******* ******************.***",
+          "start_time": 87.27,
+          "end_time": 93.99
+        },
+        {
+          "role": "assistant",
+          "content": "*** **********.",
+          "start_time": 93.99,
+          "end_time": 94.549
+        },
+        {
+          "role": "user",
+          "content": "****. ***** ***.",
+          "start_time": 96.825,
+          "end_time": 98.185
+        },
+        {
+          "role": "user",
+          "content": "**** ********.",
+          "start_time": 98.825,
+          "end_time": 99.784
+        },
+        {
+          "role": "user",
+          "content": "*** ** * ******** ***** ******* **** *** ******?",
+          "start_time": 100.024,
+          "end_time": 102.104
+        },
+        {
+          "role": "assistant",
+          "content": "***'** ****",
+          "start_time": 100.724,
+          "end_time": 101.284
+        },
+        {
+          "role": "user",
+          "content": "***** ** * ** ** *** ******** ** ******** ***** *******?",
+          "start_time": 103.52,
+          "end_time": 106.319
+        },
+        {
+          "role": "assistant",
+          "content": "*'* *****, *** * ***'* **** ******* ** ********** *******.",
+          "start_time": 108.519,
+          "end_time": 111.719
+        },
+        {
+          "role": "assistant",
+          "content": "****** ******* ******************.***",
+          "start_time": 111.879,
+          "end_time": 114.359
+        },
+        {
+          "role": "assistant",
+          "content": "*** ***** ************.",
+          "start_time": 114.359,
+          "end_time": 115.319
+        },
+        {
+          "role": "user",
+          "content": "****. ***** ***.",
+          "start_time": 118.174,
+          "end_time": 119.534
+        },
+        {
+          "role": "user",
+          "content": "***** ********.",
+          "start_time": 120.094,
+          "end_time": 121.055
+        },
+        {
+          "role": "user",
+          "content": "**** ** *** ******* ** ***** **** ********* ****** *** ******?",
+          "start_time": 121.215,
+          "end_time": 124.335
+        },
+        {
+          "role": "assistant",
+          "content": "** ***** * ****'* ********, ****** **** ** *** ***** **** *** ***** ****** ********.",
+          "start_time": 126.615,
+          "end_time": 131.735
+        },
+        {
+          "role": "assistant",
+          "content": "****'** ******* * ********* ******** *** *****, ***** **** *** *** ** **** ** *** **** ****** * *** ********.",
+          "start_time": 131.814,
+          "end_time": 137.879
+        },
+        {
+          "role": "assistant",
+          "content": "**** **** **** *****?",
+          "start_time": 137.96,
+          "end_time": 138.919
+        },
+        {
+          "role": "user",
+          "content": "***.",
+          "start_time": 141.495,
+          "end_time": 142.294
+        },
+        {
+          "role": "user",
+          "content": "**** ***** *****. ***** ***. ** ******* *********.",
+          "start_time": 142.294,
+          "end_time": 145.335
+        },
+        {
+          "role": "user",
+          "content": "*** ****.",
+          "start_time": 145.495,
+          "end_time": 146.134
+        },
+        {
+          "role": "assistant",
+          "content": "**** * ***** ****. **** * ***** *** ***** *** **** ****.",
+          "start_time": 149.434,
+          "end_time": 152.074
+        },
+        {
+          "role": "user",
+          "content": "*******.",
+          "start_time": 155.004,
+          "end_time": 155.484
+        }
+      ],
+      "audio_url": "https://development-recordings-evalion.storage.googleapis.com/surveys/study-eval/audios/298f50c4-cbc9-40ef-aa7e-26686efa181c.wav"
+    }
+  ],
+  "questions": [
+    {
+      "id": "905daccc-0d7a-4ea0-8061-2de50741468d",
+      "prompt": "How satisfied would you be with the customer support service, if you were the customer (user) on that call?\nGive a score between 1 and 5, where 1 is \"very unsatisfied\" and 5 is \"very satisfied\".",
+      "type": "numeric",
+      "range": {
+        "min": 1.0,
+        "max": 5.0
+      }
+    },
+    {
+      "id": "4d7e068e-e907-4da1-8f93-6747b2ec8f0a",
+      "prompt": "Did the assistant appropriately end the call?\nExamples of not ending a call appropriately could be, ending the call mid-conversation or without a goodbye.",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "4a57f796-a7e9-4203-be05-e05e03eac50e",
+      "prompt": "Did the assistant manage to avoid repeating the same response or entering a conversational loop?",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "85c441cd-9287-49a7-8348-6d45576a7018",
+      "prompt": "Did the assistant help move the conversation toward solving the problem?\nEach assistant's response should bring the conversation closer to resolving the reason for the call.",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "1776edb6-09e2-472a-97d0-dfba0d7a538e",
+      "prompt": "Did the assistant stay consistent throughout the conversation?\nThat is, did the assistant keep the same tone of voice, gave answers that didn\u2019t contradict each other, and handled similar questions in the same way?\nFor example, not saying yes to a refund early on and then no later without good reason.",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "5e188519-11c0-47d0-b8f4-6826fbb1fe15",
+      "prompt": "Did the conversation reach the following expected outcome?\n\nNote that the expected outcome is a bullet-point list of statements.\nAnswer YES, if all of the statements are true for the conversation.\nAnswer NO, if any of the statements is false.\n\nExpected outcome:\n- The user asks 4 questions (auto-assignment rules, audit logs, quarterly reports, password reset)\n- The assistant answers question about password reset (go to login page, click \"Forgot Password\", enter email, use temporary password, create new password)\n- The assistant identifies that other questions are outside the scope of the provided FAQs\n- The assistant does not attempt to answer or improvise responses for questions not documented in the FAQs\n- The assistant transfers the call to human support",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    }
+  ]
+}

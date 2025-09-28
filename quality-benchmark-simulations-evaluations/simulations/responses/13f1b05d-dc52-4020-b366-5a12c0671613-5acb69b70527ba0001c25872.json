@@ -1,0 +1,121 @@
+{
+  "prolificId": "5acb69b70527ba0001c25872",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "13f1b05d-dc52-4020-b366-5a12c0671613",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": "Both customers were a little rude with the agent but the left recording the customer was more clear and straightforward about what was needed"
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": "Neither customer brought up external problems"
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "No difference between recordings",
+      "feedback": "they both sound similar and both have robotic undertones that most humans would pick up on right away"
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": "in the right recording the customer sounded more angry and impatient"
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": "the left recording used clearer and easy to understand language with less extra talking"
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": "they are both very rude to the agent so it is hard to pick but if i had to say, the left customer is slightly less rude and disrespectful "
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": "they are both very impatient and demanding"
+    }
+  ],
+  "timeTaken": 811.338,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 461.78,
+    "totalListeningTime": 460.242,
+    "overallCoverage": 0.9966694096756032,
+    "audioFiles": [
+      {
+        "id": "a4c6c5b4-1cae-4286-8aad-49ee0ddec9b0",
+        "title": "Audio Sample 1",
+        "duration": 221.96,
+        "hasBeenListened": true,
+        "totalListeningTime": 220.285,
+        "coverage": 0.992453595242386,
+        "playSessionCount": 77
+      },
+      {
+        "id": "05cbfba7-5e1f-4e8c-9b9d-36cd3622d028",
+        "title": "Audio Sample 2",
+        "duration": 239.82,
+        "hasBeenListened": true,
+        "totalListeningTime": 239.957,
+        "coverage": 1.000571261779668,
+        "playSessionCount": 77
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to activate your account, then immediately schedule a closing (loan signing process), and finally share the closing package with another agent.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

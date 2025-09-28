@@ -1,0 +1,121 @@
+{
+  "prolificId": "67f302367b115d1edb94f0b0",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "6c1298f3-30fe-49be-9246-dde581e7450c",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": "The both brought fought their issues and the audio aligned with the statement. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Right recording",
+      "feedback": "The user of the right audio made sure she had all her problems solved"
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": "In the right audio one could perceive the exact mood of the user"
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": "The left audio was very straight to the point"
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": "The flow of the dialogue between the user and the assistance on the left was comprehendible"
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": "The user in the left audio was very patient as compared to the person on the right."
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 966.969,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 280.12,
+    "totalListeningTime": 280.298,
+    "overallCoverage": 1.0006354419534484,
+    "audioFiles": [
+      {
+        "id": "13456eed-4f81-4240-b5c2-8aafcb1567f5",
+        "title": "Audio Sample 1",
+        "duration": 78.54,
+        "hasBeenListened": true,
+        "totalListeningTime": 78.646,
+        "coverage": 1.0013496307613954,
+        "playSessionCount": 32
+      },
+      {
+        "id": "b06c0019-3182-4aec-a992-b3bfed9997d3",
+        "title": "Audio Sample 2",
+        "duration": 201.58,
+        "hasBeenListened": true,
+        "totalListeningTime": 201.652,
+        "coverage": 1.000357178291497,
+        "playSessionCount": 69
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to activate your account, then immediately schedule a closing (loan signing process), and finally share the closing package with another agent.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

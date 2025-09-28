@@ -1,0 +1,121 @@
+{
+  "prolificId": "5d69678bf4d251001c0f81f3",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "05433035-210d-44a7-bf3b-22da7e0e4cd7",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": "They were the same. One just took longer to get there compared to the other."
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Right recording",
+      "feedback": "The customer on the right was way more detailed in explaining their problems. The left recording was quicker and easier, but they were both resolved nonetheless."
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "No difference between recordings",
+      "feedback": "There was no difference. They both asked for help and was given directions. The right recording just took longer to get there, but the outcome was the same, because they both acted according to the scenario."
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": "They were both compliant and cheerful, but the right recording, they were more detailed about the directions they needed and then repeated (often unnecessarily) details back to the agent."
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": "The left recording was easier and seemed to understand what to do. The customer on the right was repeating information they were supposed to enter through the website, which wasn't necessary. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": "Neither of them rushed the agent. They were polite and respectful."
+    }
+  ],
+  "timeTaken": 585.912,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 274.8,
+    "totalListeningTime": 274.946,
+    "overallCoverage": 1.0005312954876273,
+    "audioFiles": [
+      {
+        "id": "4b8a933f-9863-4786-b289-e1ede8a0a1c8",
+        "title": "Audio Sample 1",
+        "duration": 78.98,
+        "hasBeenListened": true,
+        "totalListeningTime": 79.031,
+        "coverage": 1.0006457330969867,
+        "playSessionCount": 30
+      },
+      {
+        "id": "8b4055c3-ac77-4568-ba76-0e2e24b192ea",
+        "title": "Audio Sample 2",
+        "duration": 195.82,
+        "hasBeenListened": true,
+        "totalListeningTime": 195.915,
+        "coverage": 1.0004851394137473,
+        "playSessionCount": 73
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to activate your account, then immediately schedule a closing (loan signing process), and finally share the closing package with another agent.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

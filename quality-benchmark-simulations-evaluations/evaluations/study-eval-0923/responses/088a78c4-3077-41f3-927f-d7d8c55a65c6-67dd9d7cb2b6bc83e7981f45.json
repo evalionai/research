@@ -1,0 +1,62 @@
+{
+  "prolificId": "67dd9d7cb2b6bc83e7981f45",
+  "pageId": "study-eval",
+  "uuid": "088a78c4-3077-41f3-927f-d7d8c55a65c6",
+  "survey_type": "evaluation",
+  "responses": [
+    {
+      "questionId": "905daccc-0d7a-4ea0-8061-2de50741468d",
+      "response": 4,
+      "feedback": "I am satisfied with the way the assistant handled the whole situation calmly and respectfully."
+    },
+    {
+      "questionId": "4d7e068e-e907-4da1-8f93-6747b2ec8f0a",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "4a57f796-a7e9-4203-be05-e05e03eac50e",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "85c441cd-9287-49a7-8348-6d45576a7018",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "1776edb6-09e2-472a-97d0-dfba0d7a538e",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "5e188519-11c0-47d0-b8f4-6826fbb1fe15",
+      "response": "yes",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 689.781,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 80.94,
+    "totalListeningTime": 250.054,
+    "overallCoverage": 3.089374845564616,
+    "audioFiles": [
+      {
+        "id": "088a78c4-3077-41f3-927f-d7d8c55a65c6",
+        "title": "Audio Sample",
+        "duration": 80.94,
+        "hasBeenListened": true,
+        "totalListeningTime": 250.054,
+        "coverage": 3.089374845564616,
+        "playSessionCount": 88
+      }
+    ]
+  },
+  "survey": {
+    "title": "Support call evaluation survey",
+    "scenario": null,
+    "transcripts": 1,
+    "audioFiles": 1,
+    "totalQuestions": 6
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "prolificId": "5d23460ad4c57900192b129c",
+  "pageId": "study-eval",
+  "uuid": "403ee2bf-4a22-4aa3-a08c-27e9323e054d",
+  "survey_type": "evaluation",
+  "responses": [
+    {
+      "questionId": "905daccc-0d7a-4ea0-8061-2de50741468d",
+      "response": 4,
+      "feedback": "I would be satisfied with the level of customer support that I received. The assistant answered all of the questions, despite the caller being completely rude and incompetent. It was nice that the assistant offered help every single step of the way and I would have appreciated that."
+    },
+    {
+      "questionId": "4d7e068e-e907-4da1-8f93-6747b2ec8f0a",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "4a57f796-a7e9-4203-be05-e05e03eac50e",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "85c441cd-9287-49a7-8348-6d45576a7018",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "1776edb6-09e2-472a-97d0-dfba0d7a538e",
+      "response": "yes",
+      "feedback": "The assistant sounded a little depressed toward the end, but I think it was overall consistent. "
+    },
+    {
+      "questionId": "5e188519-11c0-47d0-b8f4-6826fbb1fe15",
+      "response": "yes",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 357.644,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 239.82,
+    "totalListeningTime": 240.23,
+    "overallCoverage": 1.001709615544992,
+    "audioFiles": [
+      {
+        "id": "403ee2bf-4a22-4aa3-a08c-27e9323e054d",
+        "title": "Audio Sample",
+        "duration": 239.82,
+        "hasBeenListened": true,
+        "totalListeningTime": 240.23,
+        "coverage": 1.001709615544992,
+        "playSessionCount": 103
+      }
+    ]
+  },
+  "survey": {
+    "title": "Support call evaluation survey",
+    "scenario": null,
+    "transcripts": 1,
+    "audioFiles": 1,
+    "totalQuestions": 6
+  }
+}

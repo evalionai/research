@@ -1,0 +1,62 @@
+{
+  "prolificId": "677afb901c6dd9780bdcca85",
+  "pageId": "study-eval",
+  "uuid": "3a76500d-51d3-4c1f-ac2a-e0183ef08f91",
+  "survey_type": "evaluation",
+  "responses": [
+    {
+      "questionId": "905daccc-0d7a-4ea0-8061-2de50741468d",
+      "response": 5,
+      "feedback": "This was a great call and well understood and explained"
+    },
+    {
+      "questionId": "4d7e068e-e907-4da1-8f93-6747b2ec8f0a",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "4a57f796-a7e9-4203-be05-e05e03eac50e",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "85c441cd-9287-49a7-8348-6d45576a7018",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "1776edb6-09e2-472a-97d0-dfba0d7a538e",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "5e188519-11c0-47d0-b8f4-6826fbb1fe15",
+      "response": "no",
+      "feedback": "No extensive direction to the pipeline screen and how to access document"
+    }
+  ],
+  "timeTaken": 520.22,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 169.529,
+    "totalListeningTime": 170.443,
+    "overallCoverage": 1.0053914079597002,
+    "audioFiles": [
+      {
+        "id": "3a76500d-51d3-4c1f-ac2a-e0183ef08f91",
+        "title": "Audio Sample",
+        "duration": 169.529,
+        "hasBeenListened": true,
+        "totalListeningTime": 170.443,
+        "coverage": 1.0053914079597002,
+        "playSessionCount": 58
+      }
+    ]
+  },
+  "survey": {
+    "title": "Support call evaluation survey",
+    "scenario": null,
+    "transcripts": 1,
+    "audioFiles": 1,
+    "totalQuestions": 6
+  }
+}

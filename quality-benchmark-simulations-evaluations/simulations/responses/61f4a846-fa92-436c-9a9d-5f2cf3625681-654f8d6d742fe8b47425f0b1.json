@@ -1,0 +1,121 @@
+{
+  "prolificId": "654f8d6d742fe8b47425f0b1",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "61f4a846-fa92-436c-9a9d-5f2cf3625681",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 457.697,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 235.75900000000001,
+    "totalListeningTime": 235.923,
+    "overallCoverage": 1.0006956256176858,
+    "audioFiles": [
+      {
+        "id": "87f26398-b2bb-4ae1-9c94-56d6b59b51fc",
+        "title": "Audio Sample 1",
+        "duration": 34.14,
+        "hasBeenListened": true,
+        "totalListeningTime": 34.23,
+        "coverage": 1.0026362038664323,
+        "playSessionCount": 14
+      },
+      {
+        "id": "504350a5-f20e-4786-9870-58534bbbfccd",
+        "title": "Audio Sample 2",
+        "duration": 201.619,
+        "hasBeenListened": true,
+        "totalListeningTime": 201.693,
+        "coverage": 1.000367028901046,
+        "playSessionCount": 64
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to upload a 50MB PDF as a trailing document. Is there a file size limit? While you check that, can you also tell me where in the UI I can see the loan's interest rate? And finally, who gets notified when I upload this trailing document?",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

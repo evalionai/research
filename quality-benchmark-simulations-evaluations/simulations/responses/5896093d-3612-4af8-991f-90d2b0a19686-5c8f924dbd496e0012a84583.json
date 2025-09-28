@@ -1,0 +1,121 @@
+{
+  "prolificId": "5c8f924dbd496e0012a84583",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "5896093d-3612-4af8-991f-90d2b0a19686",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": "Initially, both stated the file size unit incorrectly."
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Right recording",
+      "feedback": "The customer in recording B was much more thorough regarding vthe issues of the scenario."
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Right recording",
+      "feedback": "The customer in recoding B wanted to know what several megabytes meant. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": "The replies of the customer in recording B made more sense and followed the converszation better. The customer in recording A seemed to experience aq lag, distraction, or some other issue."
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Right recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 828.798,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 263.703,
+    "totalListeningTime": 355.008,
+    "overallCoverage": 1.3462417947463625,
+    "audioFiles": [
+      {
+        "id": "da269ba6-7007-447c-8481-d32258f72b03",
+        "title": "Audio Sample 1",
+        "duration": 127.1,
+        "hasBeenListened": true,
+        "totalListeningTime": 218.328,
+        "coverage": 1.717765538945712,
+        "playSessionCount": 76
+      },
+      {
+        "id": "83c5829c-3d99-437e-af22-4c3e8f85d816",
+        "title": "Audio Sample 2",
+        "duration": 136.603,
+        "hasBeenListened": true,
+        "totalListeningTime": 136.68,
+        "coverage": 1.000563677225244,
+        "playSessionCount": 50
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to upload a 50MB PDF as a trailing document. Is there a file size limit? While you check that, can you also tell me where in the UI I can see the loan's interest rate? And finally, who gets notified when I upload this trailing document?",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

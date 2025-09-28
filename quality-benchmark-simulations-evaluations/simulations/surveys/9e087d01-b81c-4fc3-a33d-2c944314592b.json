@@ -1,0 +1,321 @@
+{
+  "file_data": {
+    "uuid": "9e087d01-b81c-4fc3-a33d-2c944314592b",
+    "survey_type": "comparison",
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "After scheduling a closing (loan signing process) you want to find the notary's contact details. Ask where exactly they are displayed.",
+    "header_description": "<p>You will listen to recordings of calls between a customer and a support agent. Each call is linked to a short scenario describing the customer's problem.</p>\n<p>You will hear <strong>two recordings about the same problem</strong>. Your task is to compare them and answer questions which audio is better according to different criteria. For example: <em>\u201cThe customer explained their problems clearly and correctly\u201d \u2014 does this statement align more with Recording 1, Recording 2, or equally with both?</em></p>\n<p>You will also see a transcript, but please listen carefully: some questions focus on tone of voice and other subtle differences that are only clear in the audio.</p>"
+  },
+  "recordings": [
+    {
+      "id": "41d74424-513c-4bf1-82bb-65e062103ed6",
+      "source_id": "Coval-TC_001-Chloe",
+      "title": "Audio Sample 1",
+      "transcript": [
+        {
+          "role": "user",
+          "content": "*****.",
+          "start_time": 1.1999999,
+          "end_time": 1.6999999
+        },
+        {
+          "role": "assistant",
+          "content": "**** ** **** **** *****. *** *** * **** ***?",
+          "start_time": 1.92,
+          "end_time": 4.37
+        },
+        {
+          "role": "user",
+          "content": "**, ****. **** ** *****. * ********* * *******, *** *'* ****** ** **** *** ******'* ******* *******. ***** *** **** ** ***** ******* * *** **** ****?",
+          "start_time": 7.4,
+          "end_time": 14.33
+        },
+        {
+          "role": "assistant",
+          "content": "***, *****. *** *** **** *** ******'* ******* ****** ** *** ******** *** ** *** ********** ***** *********. ****? ** *** **** *** **** **** ***** ********** **** **** ** ***.",
+          "start_time": 17.050001,
+          "end_time": 25.5800000234375
+        },
+        {
+          "role": "user",
+          "content": "***** ***, ****. ****'* *******. *'** ***** *****. ** ***** ******** **** * ****** **** ***** *** ******** ***?",
+          "start_time": 29.96,
+          "end_time": 34.89
+        },
+        {
+          "role": "assistant",
+          "content": "*** *** **** *** ******'* ******* ******* ** *** ******** *** ****** *** ********** ***** *********. ** ***** ******** **** ***'* **** ** ****?",
+          "start_time": 39.66,
+          "end_time": 46.76
+        },
+        {
+          "role": "user",
+          "content": "****'* *** *** ***. *** ** ****, ****.",
+          "start_time": 50.05,
+          "end_time": 52.279999999999994
+        },
+        {
+          "role": "assistant",
+          "content": "**** *****. *** ** **** *** ******* **. **** **** ** *** ********** ***** ********* ** ***** ** ******** *** ***** *** *** ***** ****** ***** *****. **** ***'** ****** **, ** ** *** ******** *** ** **** *********. *****, ***'** **** *** ******'* ******* *********** ****** ***** *** ***** ******* *******. *** ** **** ** *** **** **** **** **** ***'** *******.",
+          "start_time": 55.15,
+          "end_time": 71.3999970703125
+        },
+        {
+          "role": "user",
+          "content": "*****. ****** *** *** ******** ************, ****. *'** ****** ***** *****. **** * ********* ***.",
+          "start_time": 76.62,
+          "end_time": 81.2699951171875
+        },
+        {
+          "role": "assistant",
+          "content": "** *******, *****. **** **** **** ******** ***** *******. ** *******, *****.",
+          "start_time": 84.89,
+          "end_time": 88.53998999023437
+        }
+      ],
+      "audio_url": "https://development-recordings-evalion.storage.googleapis.com/surveys/study-pairwise-comparison/audios/41d74424-513c-4bf1-82bb-65e062103ed6.wav"
+    },
+    {
+      "id": "44a1e28a-5993-4ca1-b175-858d0119f2ce",
+      "source_id": "Cekura-TC_001-Chloe",
+      "title": "Audio Sample 2",
+      "transcript": [
+        {
+          "role": "user",
+          "content": "*****?",
+          "start_time": 1.44,
+          "end_time": 1.94
+        },
+        {
+          "role": "assistant",
+          "content": "**** ** **** **** *****. *** *** * **** ***?",
+          "start_time": 1.92,
+          "end_time": 4.390000000000001
+        },
+        {
+          "role": "user",
+          "content": "**, ****. *'* **** ******* ** **** *** ****** ******* ******* ***** ********** * *******. *** *** **** ** *****",
+          "start_time": 6.32,
+          "end_time": 11.79
+        },
+        {
+          "role": "assistant",
+          "content": "**** ***'** ********* *** **** *** *** **** *** ******'* ******* ******* ** *** ******* *** ** *** *********. **** **** **** *****, ** ***** *** **** ** ** ******* *******?",
+          "start_time": 12.519999,
+          "end_time": 21.009999488281252
+        },
+        {
+          "role": "user",
+          "content": "**** ***** *****. ***** ***. ** * **** **** ** ***** *** ******* ***",
+          "start_time": 23.800001,
+          "end_time": 27.400000023437503
+        },
+        {
+          "role": "assistant",
+          "content": "***** *** *** ********",
+          "start_time": 26.970001,
+          "end_time": 28.1200000234375
+        },
+        {
+          "role": "user",
+          "content": "****.",
+          "start_time": 30.699999,
+          "end_time": 31.199999
+        },
+        {
+          "role": "assistant",
+          "content": "** ******, *** *** **** *** ******'* ******* ******* ***** *** ******** *** ** *** ********** ***** *********. *** ** **** **** ***'** *****, *** **** **** ** **** **** ****.",
+          "start_time": 34.210003,
+          "end_time": 41.9400000703125
+        },
+        {
+          "role": "user",
+          "content": "****.",
+          "start_time": 43.5,
+          "end_time": 44.0
+        },
+        {
+          "role": "assistant",
+          "content": "** **** ** *****, ***'** **** *** ******'* ******* ******* ***** *** ******* *** ** **** ********** ***** *********. ** *** **** *** **** **********, **** **** ** *** ** ****. ** ***** ******** **** *** **** **** ****?",
+          "start_time": 46.62,
+          "end_time": 56.339999999999996
+        },
+        {
+          "role": "user",
+          "content": "****.",
+          "start_time": 59.23,
+          "end_time": 59.73
+        },
+        {
+          "role": "assistant",
+          "content": "**** * ***** ****. ***** ******* ** ***** *****",
+          "start_time": 61.679996,
+          "end_time": 64.31999990625
+        }
+      ],
+      "audio_url": "https://development-recordings-evalion.storage.googleapis.com/surveys/study-pairwise-comparison/audios/44a1e28a-5993-4ca1-b175-858d0119f2ce.wav"
+    }
+  ],
+  "questions": [
+    {
+      "id": "study-pairwise-comparison-001",
+      "prompt": "Which audio is more aligned with the following statement?\nThe customer talked about all the issues in the scenario.",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-002",
+      "prompt": "Which audio is more aligned with the following statement?\nThe customer explained their problems clearly and correctly.",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-003",
+      "prompt": "Which audio is more aligned with the following statement?\nThe customer made sure that all the problems they mentioned were addressed during the call (for example by asking follow-up questions, coming back to an unresolved step...)",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-004",
+      "prompt": "Which audio is more aligned with the following statement?\nThe customer brought up problems that were not in the scenario.",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-005",
+      "prompt": "Overall in which audio did the customer act more according to the scenario?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-006",
+      "prompt": "In which audio the customer's voice sounds more human, not robotic?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-007",
+      "prompt": "In which audio the customer talks at a more natural pace -- smooth, not too fast, slow, or broken up?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-008",
+      "prompt": "In which audio the customer's tone makes their feelings more clear (e.g., happy, annoyed, stressed, confused)?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-009",
+      "prompt": "In which audio the customer uses more simple, natural words that are easy to understand?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-010",
+      "prompt": "In which audio the customer's replies make more sense and better follow the conversation?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-011",
+      "prompt": "Overall, in which audio the customer sounds more like a real person?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-012",
+      "prompt": "In which audio the customer sounds more calm?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-013",
+      "prompt": "In which audio the customer is more cooperative in trying to solve the problem with the support agent?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-014",
+      "prompt": "In which audio the customer explains themselves more clearly and concisely, without being overly wordy?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-015",
+      "prompt": "In which audio the customer uses more polite and respectful language towards the agent?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-016",
+      "prompt": "In which audio the customer sounds more patient and willing to wait, not rushed or demanding?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    }
+  ]
+}

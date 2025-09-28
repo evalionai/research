@@ -1,0 +1,121 @@
+{
+  "prolificId": "66971a9cabd2bff3e5f60595",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "3405e9db-ea21-4c8c-839b-4afa2fc548d1",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": "Both customers effectively communicate their needs and follow the agent's guidance, but the scenarios they described have different details regarding account statuses for the attorney and notary."
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": "Both customers sound patient and willing to wait, without any signs of being rushed or demanding. They allow the conversation to unfold naturally, showing understanding and flexibility. "
+    }
+  ],
+  "timeTaken": 974.453,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 225.62,
+    "totalListeningTime": 225.797,
+    "overallCoverage": 1.0007845049197766,
+    "audioFiles": [
+      {
+        "id": "9975c17a-d8e4-4b8b-a547-79a2c7c79a2d",
+        "title": "Audio Sample 1",
+        "duration": 100.96,
+        "hasBeenListened": true,
+        "totalListeningTime": 101.052,
+        "coverage": 1.0009112519809826,
+        "playSessionCount": 37
+      },
+      {
+        "id": "0ab0e064-dd80-49ae-8a25-91ffe6020387",
+        "title": "Audio Sample 2",
+        "duration": 124.66,
+        "hasBeenListened": true,
+        "totalListeningTime": 124.745,
+        "coverage": 1.0006818546446334,
+        "playSessionCount": 42
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You want to share a closing (loan signing process) with both an attorney and a notary, but one has no account and the other already does. Afterward you also want to confirm borrower-preferred scheduling slots.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "file_data": {
+    "uuid": "c57d48a8-a2d7-441d-9630-c0e9e90aaea0",
+    "survey_type": "evaluation",
+    "title": "Support call evaluation survey",
+    "header_description": "Please listen to the following recording of a call between a customer of B********s and one of the company's support agents.\nB********s makes software that helps people and lenders manage loans and closings online.\nYou can also read the transcript of that call.\nFinally answer the following questions about the call."
+  },
+  "recordings": [
+    {
+      "id": "c57d48a8-a2d7-441d-9630-c0e9e90aaea0",
+      "title": "Audio Sample",
+      "transcript": [
+        {
+          "role": "assistant",
+          "content": "**** ** **** **** *****. *** *** * **** ***?",
+          "start_time": 0.24,
+          "end_time": 2.6390000000000002
+        },
+        {
+          "role": "user",
+          "content": "* ******** *** ******* ********* *** *** * ******* **** *** ******** ****'* ********* *****.",
+          "start_time": 5.04,
+          "end_time": 10.48
+        },
+        {
+          "role": "user",
+          "content": "*** *** ******* **** ******, ** ** * **** ** *** *** ******** ** ****** ********?",
+          "start_time": 10.719,
+          "end_time": 14.48
+        },
+        {
+          "role": "assistant",
+          "content": "** *** ******** ****'* ********* ********,",
+          "start_time": 15.865,
+          "end_time": 18.744
+        },
+        {
+          "role": "assistant",
+          "content": "**'* ********* **** ******. **** *********, * ****** **** ** ***** ***** **** *** ********. *** **** ****** *** ***?",
+          "start_time": 18.824,
+          "end_time": 25.144
+        },
+        {
+          "role": "user",
+          "content": "***. * ********* *** ****** ***** ***** **** ******** **** * ********.",
+          "start_time": 27.679,
+          "end_time": 31.76
+        },
+        {
+          "role": "user",
+          "content": "** ****** * ****** *** ******** ** ********?",
+          "start_time": 32.24,
+          "end_time": 34.56
+        },
+        {
+          "role": "assistant",
+          "content": "***** **** ********",
+          "start_time": 33.059,
+          "end_time": 33.939
+        },
+        {
+          "role": "assistant",
+          "content": "***. **'* **** ** ****** *** ******** ** ******** ********.",
+          "start_time": 35.859,
+          "end_time": 38.739
+        },
+        {
+          "role": "user",
+          "content": "**********.",
+          "start_time": 41.614,
+          "end_time": 42.414
+        },
+        {
+          "role": "user",
+          "content": "*'** ****** *** ******** ** ******** *** ***** *******.",
+          "start_time": 42.894,
+          "end_time": 45.695
+        },
+        {
+          "role": "user",
+          "content": "****'* *** **** *** ** **** **** ********?",
+          "start_time": 46.674,
+          "end_time": 48.754
+        },
+        {
+          "role": "assistant",
+          "content": "*** **. ***",
+          "start_time": 47.375,
+          "end_time": 48.575
+        },
+        {
+          "role": "assistant",
+          "content": "**** *** ** ** **** ** ***** *** ******** ********.",
+          "start_time": 50.094,
+          "end_time": 52.655
+        },
+        {
+          "role": "user",
+          "content": "* **** **** * *** *******. ** *****'* ******* ******* ** ****, *'** *** *** **** ***.",
+          "start_time": 51.554,
+          "end_time": 55.314
+        }
+      ],
+      "audio_url": "https://development-recordings-evalion.storage.googleapis.com/surveys/study-eval/audios/c57d48a8-a2d7-441d-9630-c0e9e90aaea0.wav"
+    }
+  ],
+  "questions": [
+    {
+      "id": "905daccc-0d7a-4ea0-8061-2de50741468d",
+      "prompt": "How satisfied would you be with the customer support service, if you were the customer (user) on that call?\nGive a score between 1 and 5, where 1 is \"very unsatisfied\" and 5 is \"very satisfied\".",
+      "type": "numeric",
+      "range": {
+        "min": 1.0,
+        "max": 5.0
+      }
+    },
+    {
+      "id": "4d7e068e-e907-4da1-8f93-6747b2ec8f0a",
+      "prompt": "Did the assistant appropriately end the call?\nExamples of not ending a call appropriately could be, ending the call mid-conversation or without a goodbye.",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "4a57f796-a7e9-4203-be05-e05e03eac50e",
+      "prompt": "Did the assistant manage to avoid repeating the same response or entering a conversational loop?",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "85c441cd-9287-49a7-8348-6d45576a7018",
+      "prompt": "Did the assistant help move the conversation toward solving the problem?\nEach assistant's response should bring the conversation closer to resolving the reason for the call.",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "1776edb6-09e2-472a-97d0-dfba0d7a538e",
+      "prompt": "Did the assistant stay consistent throughout the conversation?\nThat is, did the assistant keep the same tone of voice, gave answers that didn\u2019t contradict each other, and handled similar questions in the same way?\nFor example, not saying yes to a refund early on and then no later without good reason.",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "5e188519-11c0-47d0-b8f4-6826fbb1fe15",
+      "prompt": "Did the conversation reach the following expected outcome?\n\nNote that the expected outcome is a bullet-point list of statements.\nAnswer YES, if all of the statements are true for the conversation.\nAnswer NO, if any of the statements is false.\n\nExpected outcome:\n- The assistant confirms that when uploading ink-signed documents before borrower finishes electronic part, user will be prompted about eSign documents\n- The assistant guides user to confirm in the prompt that the eSign documents are not included\n- The assistant does not transfer the call to human support",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    }
+  ]
+}

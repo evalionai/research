@@ -1,0 +1,121 @@
+{
+  "prolificId": "6621a2f38453311275d17d65",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "433cabfd-55fd-45ea-93d2-e976e28081cd",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": "Both customers on the left and right recordings ask questions about notarization and changing the date after it's been scheduled. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": "Both the customer on the left and on the right explain their issue to Zara and get it resolved. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": "I feel like the left recording is more aligned with the statement as the customer asked plenty of follow up questions during the call and resolved the issue. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": "Neither customer in either the left or right brought up other problems outside of the scenario "
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": "I felt that the right recording was smoother, and the customer acted more according to the given scenario. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": "In the left recording, Zara sounds more human like and like she's more interested in interacting. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Right recording",
+      "feedback": "On the right recording the customer talks at a normal speed and is able to communicate with Zara effectively "
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 1440.285,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 292.47900000000004,
+    "totalListeningTime": 404.826,
+    "overallCoverage": 1.384119885530243,
+    "audioFiles": [
+      {
+        "id": "3b51599d-de8a-44c1-9758-048164a41e2f",
+        "title": "Audio Sample 1",
+        "duration": 149.699,
+        "hasBeenListened": true,
+        "totalListeningTime": 208.347,
+        "coverage": 1.3917728241337617,
+        "playSessionCount": 78
+      },
+      {
+        "id": "a5b90711-a479-44ab-8fc9-3e279cb36a26",
+        "title": "Audio Sample 2",
+        "duration": 142.78,
+        "hasBeenListened": true,
+        "totalListeningTime": 196.479,
+        "coverage": 1.3760960918896206,
+        "playSessionCount": 78
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You want to schedule a traditional or hybrid closing (signing done fully on paper, or partly online and partly on paper). You need to use the borrower's preferences, pick a time slot, choose the notarization method, and confirm whether the date can be changed after it's scheduled.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

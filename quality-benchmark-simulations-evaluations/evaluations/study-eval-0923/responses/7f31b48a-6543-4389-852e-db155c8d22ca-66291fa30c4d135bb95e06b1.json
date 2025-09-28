@@ -1,0 +1,62 @@
+{
+  "prolificId": "66291fa30c4d135bb95e06b1",
+  "pageId": "study-eval",
+  "uuid": "7f31b48a-6543-4389-852e-db155c8d22ca",
+  "survey_type": "evaluation",
+  "responses": [
+    {
+      "questionId": "905daccc-0d7a-4ea0-8061-2de50741468d",
+      "response": 3,
+      "feedback": "The user got what she needed, but it was a very awkward interaction."
+    },
+    {
+      "questionId": "4d7e068e-e907-4da1-8f93-6747b2ec8f0a",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "4a57f796-a7e9-4203-be05-e05e03eac50e",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "85c441cd-9287-49a7-8348-6d45576a7018",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "1776edb6-09e2-472a-97d0-dfba0d7a538e",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "5e188519-11c0-47d0-b8f4-6826fbb1fe15",
+      "response": "no",
+      "feedback": "The following did not happen: \"The assistant explains that uploaded documents will appear in the \"Uploaded Documents\" section\""
+    }
+  ],
+  "timeTaken": 292.303,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 95.3,
+    "totalListeningTime": 95.354,
+    "overallCoverage": 1.000566631689402,
+    "audioFiles": [
+      {
+        "id": "7f31b48a-6543-4389-852e-db155c8d22ca",
+        "title": "Audio Sample",
+        "duration": 95.3,
+        "hasBeenListened": true,
+        "totalListeningTime": 95.354,
+        "coverage": 1.000566631689402,
+        "playSessionCount": 37
+      }
+    ]
+  },
+  "survey": {
+    "title": "Support call evaluation survey",
+    "scenario": null,
+    "transcripts": 1,
+    "audioFiles": 1,
+    "totalQuestions": 6
+  }
+}

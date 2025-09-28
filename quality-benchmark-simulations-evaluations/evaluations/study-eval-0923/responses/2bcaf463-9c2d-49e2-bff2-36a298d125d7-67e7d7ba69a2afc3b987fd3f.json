@@ -1,0 +1,62 @@
+{
+  "prolificId": "67e7d7ba69a2afc3b987fd3f",
+  "pageId": "study-eval",
+  "uuid": "2bcaf463-9c2d-49e2-bff2-36a298d125d7",
+  "survey_type": "evaluation",
+  "responses": [
+    {
+      "questionId": "905daccc-0d7a-4ea0-8061-2de50741468d",
+      "response": 4,
+      "feedback": "no"
+    },
+    {
+      "questionId": "4d7e068e-e907-4da1-8f93-6747b2ec8f0a",
+      "response": "no",
+      "feedback": ""
+    },
+    {
+      "questionId": "4a57f796-a7e9-4203-be05-e05e03eac50e",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "85c441cd-9287-49a7-8348-6d45576a7018",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "1776edb6-09e2-472a-97d0-dfba0d7a538e",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "5e188519-11c0-47d0-b8f4-6826fbb1fe15",
+      "response": "yes",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 561.516,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 30.74,
+    "totalListeningTime": 246.589,
+    "overallCoverage": 8.021763175016266,
+    "audioFiles": [
+      {
+        "id": "2bcaf463-9c2d-49e2-bff2-36a298d125d7",
+        "title": "Audio Sample",
+        "duration": 30.74,
+        "hasBeenListened": true,
+        "totalListeningTime": 246.589,
+        "coverage": 8.021763175016266,
+        "playSessionCount": 105
+      }
+    ]
+  },
+  "survey": {
+    "title": "Support call evaluation survey",
+    "scenario": null,
+    "transcripts": 1,
+    "audioFiles": 1,
+    "totalQuestions": 6
+  }
+}

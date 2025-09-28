@@ -1,0 +1,121 @@
+{
+  "prolificId": "5c8f924dbd496e0012a84583",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "3a720ec9-5220-46ff-8734-b096aa7c805b",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": "The customer named the issues in the first recording. They seemed to follow the agent in the second recording and did not explicitly state each issue in the scenario."
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": "The customer in recording one specifically stated each issue individually. The customer in recording two simply stated that they needed to activate their notary workspace account and complete a few additional steps."
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": "In each scenario, the agent walked each customer through the necessary steps to obtain the closing package. The customers simply followed instructions."
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Right recording",
+      "feedback": "The customer in recording B needed to know what to do with the documents."
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": "The customer's conversation flow in recording A flowed much better than that of the customer in recording B. The customer and agent in recording B overlapped and interrupted each other much more than in recording A."
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 1747.8,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 353.523,
+    "totalListeningTime": 429.778,
+    "overallCoverage": 1.215700251468787,
+    "audioFiles": [
+      {
+        "id": "81721a50-2d4e-42ff-a49d-712ecbbaee98",
+        "title": "Audio Sample 1",
+        "duration": 167.183,
+        "hasBeenListened": true,
+        "totalListeningTime": 200.899,
+        "coverage": 1.2016712225525323,
+        "playSessionCount": 76
+      },
+      {
+        "id": "f9c74c48-70e0-4683-a3f9-e44af025bf52",
+        "title": "Audio Sample 2",
+        "duration": 186.34,
+        "hasBeenListened": true,
+        "totalListeningTime": 228.879,
+        "coverage": 1.2282870022539443,
+        "playSessionCount": 85
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You are a notary, and a settlement agent has just shared a closing package (the set of loan documents) with you. You need to activate your Notary Workspace account, pick a Multi-Factor Authentication (MFA) method for security, finish filling out your profile, and then access the documents.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "prolificId": "63bf745cc01669a110ec48ba",
+  "pageId": "study-eval",
+  "uuid": "a1a0d080-57cb-46a3-8661-e0438219759d",
+  "survey_type": "evaluation",
+  "responses": [
+    {
+      "questionId": "905daccc-0d7a-4ea0-8061-2de50741468d",
+      "response": 5,
+      "feedback": "I'd be very satisfied because the assistant never did anything incorrectly, regardless of \"my\" negative attitude (the user had a negative attitude to the max). The assistant helped me to complete the complex task of scheduling an appointment to speak with my lender about closing options. Overall, the interaction was gainful."
+    },
+    {
+      "questionId": "4d7e068e-e907-4da1-8f93-6747b2ec8f0a",
+      "response": "yes",
+      "feedback": "Yeah, the assistant completed the call appropriately or ended it appropriately because the user was already on the assistant's case, hounding her to hurry up. So, it's not an appropriate occasion for a long goodbye. "
+    },
+    {
+      "questionId": "4a57f796-a7e9-4203-be05-e05e03eac50e",
+      "response": "yes",
+      "feedback": "The assistant did the best that she could, given the circumstances, because the user was mean."
+    },
+    {
+      "questionId": "85c441cd-9287-49a7-8348-6d45576a7018",
+      "response": "yes",
+      "feedback": ""
+    },
+    {
+      "questionId": "1776edb6-09e2-472a-97d0-dfba0d7a538e",
+      "response": "no",
+      "feedback": "It was odd because sometimes the assistant had a harsh tone of voice that sounded demanding. Even though I'm on the assistant's side in this situation, there were instances where the assistant's tone of voice was surly."
+    },
+    {
+      "questionId": "5e188519-11c0-47d0-b8f4-6826fbb1fe15",
+      "response": "yes",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 1480.122,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 176.7,
+    "totalListeningTime": 176.953,
+    "overallCoverage": 1.001431805319751,
+    "audioFiles": [
+      {
+        "id": "a1a0d080-57cb-46a3-8661-e0438219759d",
+        "title": "Audio Sample",
+        "duration": 176.7,
+        "hasBeenListened": true,
+        "totalListeningTime": 176.953,
+        "coverage": 1.001431805319751,
+        "playSessionCount": 67
+      }
+    ]
+  },
+  "survey": {
+    "title": "Support call evaluation survey",
+    "scenario": null,
+    "transcripts": 1,
+    "audioFiles": 1,
+    "totalQuestions": 6
+  }
+}

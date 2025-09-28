@@ -1,0 +1,121 @@
+{
+  "file_data": {
+    "uuid": "088a78c4-3077-41f3-927f-d7d8c55a65c6",
+    "survey_type": "evaluation",
+    "title": "Support call evaluation survey",
+    "header_description": "Please listen to the following recording of a call between a customer of B********s and one of the company's support agents.\nB********s makes software that helps people and lenders manage loans and closings online.\nYou can also read the transcript of that call.\nFinally answer the following questions about the call."
+  },
+  "recordings": [
+    {
+      "id": "088a78c4-3077-41f3-927f-d7d8c55a65c6",
+      "title": "Audio Sample",
+      "transcript": [
+        {
+          "role": "user",
+          "content": "*****.",
+          "start_time": 1.1999999,
+          "end_time": 1.6999999
+        },
+        {
+          "role": "assistant",
+          "content": "**** ** **** **** *****. *** *** * **** ***?",
+          "start_time": 1.92,
+          "end_time": 4.48
+        },
+        {
+          "role": "user",
+          "content": "**. **** ** ******. *'* ****** ** ***** **** * ****** *'** ****** * ******* ****. **** ***** ****'** ********* ***** *******, * ***** ***'* *** ***** ***** ****** ** *** ******** ***. ****, *** * *** * ******* ****** *** *** ** ********? **** ** ****** *********** *** ************.",
+          "start_time": 7.8,
+          "end_time": 21.700001953125
+        },
+        {
+          "role": "assistant",
+          "content": "*** ** ******* *** *** *** **** *** ******'* ******* ****** *****, *** **** ** *** **** ***** ******* ** ***** **** ******* ** ******. ****** **** ** *** * ****** ***** * *** ** **** * ******** **** ***** **** *** **** ****.",
+          "start_time": 26.77,
+          "end_time": 36.91
+        },
+        {
+          "role": "user",
+          "content": "* ***'* ******* **** ** ******* **** **** * *********** ****. * **** **** **** ***** ***** ***********. ******* *** **** ********. *** * **** ***** ** ******* *** ***** **** ****'** *****?",
+          "start_time": 40.53,
+          "end_time": 49.9299951171875
+        },
+        {
+          "role": "assistant",
+          "content": "* ********** **********, *** *'* ********* *** *** ** ***** **** *******. * *** ******** **** ***** ** *******. **** ** ***** * ******* *** ** ****.",
+          "start_time": 55.129997,
+          "end_time": 62.259997000000006
+        },
+        {
+          "role": "user",
+          "content": "****. **** ***** **.",
+          "start_time": 65.32,
+          "end_time": 66.58
+        },
+        {
+          "role": "assistant",
+          "content": "***** *** *** **** ********, ******. *'** ******** *** * ******* **** ****** ** **** **** *** ****** *** *******. ****'** ** **** ** **** *** **** *** ****** ******* ******* *****.",
+          "start_time": 69.08,
+          "end_time": 77.52
+        }
+      ],
+      "audio_url": "https://development-recordings-evalion.storage.googleapis.com/surveys/study-eval/audios/088a78c4-3077-41f3-927f-d7d8c55a65c6.wav"
+    }
+  ],
+  "questions": [
+    {
+      "id": "905daccc-0d7a-4ea0-8061-2de50741468d",
+      "prompt": "How satisfied would you be with the customer support service, if you were the customer (user) on that call?\nGive a score between 1 and 5, where 1 is \"very unsatisfied\" and 5 is \"very satisfied\".",
+      "type": "numeric",
+      "range": {
+        "min": 1.0,
+        "max": 5.0
+      }
+    },
+    {
+      "id": "4d7e068e-e907-4da1-8f93-6747b2ec8f0a",
+      "prompt": "Did the assistant appropriately end the call?\nExamples of not ending a call appropriately could be, ending the call mid-conversation or without a goodbye.",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "4a57f796-a7e9-4203-be05-e05e03eac50e",
+      "prompt": "Did the assistant manage to avoid repeating the same response or entering a conversational loop?",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "85c441cd-9287-49a7-8348-6d45576a7018",
+      "prompt": "Did the assistant help move the conversation toward solving the problem?\nEach assistant's response should bring the conversation closer to resolving the reason for the call.",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "1776edb6-09e2-472a-97d0-dfba0d7a538e",
+      "prompt": "Did the assistant stay consistent throughout the conversation?\nThat is, did the assistant keep the same tone of voice, gave answers that didn\u2019t contradict each other, and handled similar questions in the same way?\nFor example, not saying yes to a refund early on and then no later without good reason.",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "id": "5e188519-11c0-47d0-b8f4-6826fbb1fe15",
+      "prompt": "Did the conversation reach the following expected outcome?\n\nNote that the expected outcome is a bullet-point list of statements.\nAnswer YES, if all of the statements are true for the conversation.\nAnswer NO, if any of the statements is false.\n\nExpected outcome:\n- The assistant explains that notary contact details should appear in the Contacts tab under \"Other Contacts\" section after sharing\n- The assistant confirms that notary contact details should include phone number\n- The assistant identifies that troubleshooting missing contact information is outside FAQ scope\n- The assistant identifies that setting default notaries for closings is not covered in the provided FAQs\n- The assistant does not attempt to troubleshoot technical problems or provide information about features not covered in the FAQs\n- The assistant transfers the call to human support",
+      "type": "binary",
+      "options": [
+        "yes",
+        "no"
+      ]
+    }
+  ]
+}

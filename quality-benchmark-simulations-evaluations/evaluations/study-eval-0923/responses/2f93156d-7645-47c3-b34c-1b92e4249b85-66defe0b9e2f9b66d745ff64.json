@@ -1,0 +1,62 @@
+{
+  "prolificId": "66defe0b9e2f9b66d745ff64",
+  "pageId": "study-eval",
+  "uuid": "2f93156d-7645-47c3-b34c-1b92e4249b85",
+  "survey_type": "evaluation",
+  "responses": [
+    {
+      "questionId": "905daccc-0d7a-4ea0-8061-2de50741468d",
+      "response": 1,
+      "feedback": "The ai assistant was rude and dismissive. did not initially address the question - was stern - Tone no good. Went into loop. No good."
+    },
+    {
+      "questionId": "4d7e068e-e907-4da1-8f93-6747b2ec8f0a",
+      "response": "no",
+      "feedback": "No. No branded closing."
+    },
+    {
+      "questionId": "4a57f796-a7e9-4203-be05-e05e03eac50e",
+      "response": "no",
+      "feedback": "No. the ai assistant repeated and went into a loop more than once."
+    },
+    {
+      "questionId": "85c441cd-9287-49a7-8348-6d45576a7018",
+      "response": "yes",
+      "feedback": "No. repeated two or three times.\n"
+    },
+    {
+      "questionId": "1776edb6-09e2-472a-97d0-dfba0d7a538e",
+      "response": "no",
+      "feedback": ""
+    },
+    {
+      "questionId": "5e188519-11c0-47d0-b8f4-6826fbb1fe15",
+      "response": "yes",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 311.478,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 90.18,
+    "totalListeningTime": 90.274,
+    "overallCoverage": 1.0010423597249944,
+    "audioFiles": [
+      {
+        "id": "2f93156d-7645-47c3-b34c-1b92e4249b85",
+        "title": "Audio Sample",
+        "duration": 90.18,
+        "hasBeenListened": true,
+        "totalListeningTime": 90.274,
+        "coverage": 1.0010423597249944,
+        "playSessionCount": 33
+      }
+    ]
+  },
+  "survey": {
+    "title": "Support call evaluation survey",
+    "scenario": null,
+    "transcripts": 1,
+    "audioFiles": 1,
+    "totalQuestions": 6
+  }
+}
