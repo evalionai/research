@@ -1,0 +1,24 @@
+[project]
+name = "quality"
+version = "0.0.0"
+description = "Quality assesment for agent testing platforms"
+requires-python = ">=3.11"
+packages = []
+dependencies = [
+    "alembic>=1.16.4",
+    "ipywidgets>=8.1.7",
+    "jinja2>=3.1.6",
+    "jupyterlab>=4.4.4",
+    "matplotlib>=3.10.5",
+    "pydantic-settings>=2.10.1",
+    "python-dotenv>=1.1.1",
+    "scikit-learn>=1.7.2",
+    "sqlalchemy>=2.0.41",
+    "statsmodels>=0.14.5",
+]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.2.0",
+    "ipykernel>=6.29.0",
+]
