@@ -1,0 +1,121 @@
+{
+  "prolificId": "66e9a45427bb5c6168d41030",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "49071831-c3f5-4f86-80fe-4e348d0811b3",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 653.632,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 410.204,
+    "totalListeningTime": 441.467,
+    "overallCoverage": 1.076213298748915,
+    "audioFiles": [
+      {
+        "id": "64a8be73-7b54-454f-9d22-e8ccfc4a40cf",
+        "title": "Audio Sample 1",
+        "duration": 288.74,
+        "hasBeenListened": true,
+        "totalListeningTime": 319.932,
+        "coverage": 1.1080279836531135,
+        "playSessionCount": 109
+      },
+      {
+        "id": "bc7605e7-a28b-4d04-b08c-45801c30cf2c",
+        "title": "Audio Sample 2",
+        "duration": 121.464,
+        "hasBeenListened": true,
+        "totalListeningTime": 121.535,
+        "coverage": 1.0005845353355727,
+        "playSessionCount": 38
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to activate your account, then immediately schedule a closing (loan signing process), and finally share the closing package with another agent.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

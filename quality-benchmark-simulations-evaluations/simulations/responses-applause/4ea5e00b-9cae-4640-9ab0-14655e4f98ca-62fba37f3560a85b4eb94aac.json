@@ -1,0 +1,121 @@
+{
+  "prolificId": "62fba37f3560a85b4eb94aac",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "4ea5e00b-9cae-4640-9ab0-14655e4f98ca",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Right recording",
+      "feedback": "The right audio didn't mention anything"
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": "The left was more natural but extremely slow and asked the same questions twice"
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": "Asking the same thing twice is a little wordy....but they actually talked about the scenario "
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 394.379,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 291.53999999999996,
+    "totalListeningTime": 292.002,
+    "overallCoverage": 1.0015846882074502,
+    "audioFiles": [
+      {
+        "id": "bd1e0dc2-b520-4867-9cc3-0e56a4c5f764",
+        "title": "Audio Sample 1",
+        "duration": 265.76,
+        "hasBeenListened": true,
+        "totalListeningTime": 265.987,
+        "coverage": 1.000854154124022,
+        "playSessionCount": 103
+      },
+      {
+        "id": "36f0d1ad-50b0-4ca9-9d3b-9e13d7ec1288",
+        "title": "Audio Sample 2",
+        "duration": 25.78,
+        "hasBeenListened": true,
+        "totalListeningTime": 26.015,
+        "coverage": 1.0091155934833205,
+        "playSessionCount": 12
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to upload a 50MB PDF as a trailing document. Is there a file size limit? While you check that, can you also tell me where in the UI I can see the loan's interest rate? And finally, who gets notified when I upload this trailing document?",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

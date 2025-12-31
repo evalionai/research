@@ -1,0 +1,121 @@
+{
+  "prolificId": "5dc3552003f8562725a1b956",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "1a1cba36-dd2c-4705-b0e0-c655e79dd983",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 516.34,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 239.04000000000002,
+    "totalListeningTime": 239.314,
+    "overallCoverage": 1.00114625167336,
+    "audioFiles": [
+      {
+        "id": "e37dff57-f50c-46cb-b0af-2b4d2e304b68",
+        "title": "Audio Sample 1",
+        "duration": 145.3,
+        "hasBeenListened": true,
+        "totalListeningTime": 145.471,
+        "coverage": 1.0011768754301444,
+        "playSessionCount": 52
+      },
+      {
+        "id": "1c75df8e-1d06-4007-b036-f6039a9bba65",
+        "title": "Audio Sample 2",
+        "duration": 93.74,
+        "hasBeenListened": true,
+        "totalListeningTime": 93.843,
+        "coverage": 1.0010987838702796,
+        "playSessionCount": 34
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You are a settlement agent. You shared a closing (loan signing process) with a notary. The notary claims they completed their profile in the application but you still can't see their phone number in the Contacts tab. You also need to know if you can set a default notary for all your closings.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "prolificId": "66772da1add67a4a8e713540",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "9b736c64-7fa1-48d5-8ada-48572e05612f",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Right recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 724.906,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 202.86,
+    "totalListeningTime": 209.345,
+    "overallCoverage": 1.0319678596076112,
+    "audioFiles": [
+      {
+        "id": "410f2b9e-76d7-41c1-baa4-574a74b87a73",
+        "title": "Audio Sample 1",
+        "duration": 31.14,
+        "hasBeenListened": true,
+        "totalListeningTime": 37.556,
+        "coverage": 1.2060372511239563,
+        "playSessionCount": 19
+      },
+      {
+        "id": "52212aed-ccee-4770-8548-66b9265e06bc",
+        "title": "Audio Sample 2",
+        "duration": 171.72,
+        "hasBeenListened": true,
+        "totalListeningTime": 171.789,
+        "coverage": 1.0004018169112507,
+        "playSessionCount": 54
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "The borrower hasn't finished their eSign (electronic signing) yet. You already uploaded the ink-signed paper documents and then saw a prompt. You want to clarify whether the eSign documents are already included, or if you still need to remind the borrower to complete them.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

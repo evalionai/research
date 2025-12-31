@@ -1,0 +1,121 @@
+{
+  "prolificId": "63b6be87ead45e4fa772fbf5",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "844f774e-d344-4fe8-86cc-76cad81f6bc0",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Right recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 326.873,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 170.002,
+    "totalListeningTime": 170.228,
+    "overallCoverage": 1.0013293961247514,
+    "audioFiles": [
+      {
+        "id": "2539c82c-60e5-43cd-80fb-1244dc0cb3a3",
+        "title": "Audio Sample 1",
+        "duration": 68.6,
+        "hasBeenListened": true,
+        "totalListeningTime": 68.736,
+        "coverage": 1.00198250728863,
+        "playSessionCount": 26
+      },
+      {
+        "id": "e499d51f-8c9d-48ce-a1be-f41f60a76d74",
+        "title": "Audio Sample 2",
+        "duration": 101.402,
+        "hasBeenListened": true,
+        "totalListeningTime": 101.492,
+        "coverage": 1.0008875564584525,
+        "playSessionCount": 35
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You are new to the Pipeline View (the list of loans you're working on). You want to know how to filter for today's closings (loan signing processes) that still have pending eSign (electronic signing) tasks, how to sort the list by Closing Date, and how to search using a property address.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

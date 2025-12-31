@@ -1,0 +1,121 @@
+{
+  "prolificId": "6310bf2d4897ec60e9079b63",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "3e5045cd-430e-464c-a7ec-260014bb803a",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "No difference between recordings",
+      "feedback": "customer from left recording sounds like AI while customer from right recording sounds like a real human, but since the customer from right recording didn't talk as much, i can't really tell who talks at a more natural pace"
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "No difference between recordings",
+      "feedback": "customer from right recording didn't talk as much so i can't really tell what their feelings are this time around"
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": "customer from right recording didn't even explain themselves"
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Right recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 433.215,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 127.39699999999999,
+    "totalListeningTime": 127.604,
+    "overallCoverage": 1.0016248420292473,
+    "audioFiles": [
+      {
+        "id": "d793b9ae-8359-43da-b550-7075b6f1e63a",
+        "title": "Audio Sample 1",
+        "duration": 87.377,
+        "hasBeenListened": true,
+        "totalListeningTime": 87.466,
+        "coverage": 1.0010185746821245,
+        "playSessionCount": 33
+      },
+      {
+        "id": "68eeca0b-04b7-4bcf-a954-ee1ac969c0a2",
+        "title": "Audio Sample 2",
+        "duration": 40.02,
+        "hasBeenListened": true,
+        "totalListeningTime": 40.138,
+        "coverage": 1.0029485257371313,
+        "playSessionCount": 20
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "After scheduling a closing (loan signing process) you want to find the notary's contact details. Ask where exactly they are displayed.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "prolificId": "66faa9f8e5523fffb85041b1",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "c6250457-4705-47b4-aac1-49adb50c6c4a",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Right recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 446.241,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 231.834,
+    "totalListeningTime": 232.004,
+    "overallCoverage": 1.0007332832975318,
+    "audioFiles": [
+      {
+        "id": "7c0aaae5-9af4-48bf-8245-88385634caae",
+        "title": "Audio Sample 1",
+        "duration": 121.834,
+        "hasBeenListened": true,
+        "totalListeningTime": 121.926,
+        "coverage": 1.000755125826945,
+        "playSessionCount": 44
+      },
+      {
+        "id": "c2c01e6b-eb1a-4b6c-94c9-b8db864974a5",
+        "title": "Audio Sample 2",
+        "duration": 110,
+        "hasBeenListened": true,
+        "totalListeningTime": 110.078,
+        "coverage": 1.000709090909091,
+        "playSessionCount": 43
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to understand how RON scheduling works (Remote Online Notarization \u2014 where the signing is done fully online). You want to ask who is responsible for setting the RON appointment, where you can see the Signing Room, and when the confirmed details \u2014 like date, time, and notary info \u2014 will appear.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

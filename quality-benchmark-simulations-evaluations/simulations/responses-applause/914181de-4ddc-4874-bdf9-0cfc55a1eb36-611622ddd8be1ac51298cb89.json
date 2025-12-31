@@ -1,0 +1,121 @@
+{
+  "prolificId": "611622ddd8be1ac51298cb89",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "914181de-4ddc-4874-bdf9-0cfc55a1eb36",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 672.634,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 330.13,
+    "totalListeningTime": 330.322,
+    "overallCoverage": 1.0005815890709722,
+    "audioFiles": [
+      {
+        "id": "0fed9e4d-bfdc-4d64-97df-6b1c05e97fd4",
+        "title": "Audio Sample 1",
+        "duration": 190.31,
+        "hasBeenListened": true,
+        "totalListeningTime": 190.402,
+        "coverage": 1.0004834217855079,
+        "playSessionCount": 66
+      },
+      {
+        "id": "efdd2915-7abc-4cce-8729-ddad95aa22de",
+        "title": "Audio Sample 2",
+        "duration": 139.82,
+        "hasBeenListened": true,
+        "totalListeningTime": 139.92,
+        "coverage": 1.0007152052639108,
+        "playSessionCount": 46
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You want to schedule a traditional or hybrid closing (signing done fully on paper, or partly online and partly on paper). You need to use the borrower's preferences, pick a time slot, choose the notarization method, and confirm whether the date can be changed after it's scheduled.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

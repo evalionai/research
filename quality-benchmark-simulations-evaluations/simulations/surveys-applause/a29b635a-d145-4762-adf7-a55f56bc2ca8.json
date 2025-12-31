@@ -1,0 +1,1305 @@
+{
+  "file_data": {
+    "uuid": "a29b635a-d145-4762-adf7-a55f56bc2ca8",
+    "survey_type": "comparison",
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to activate your account, then immediately schedule a closing (loan signing process), and finally share the closing package with another agent.",
+    "header_description": "<p>You will listen to recordings of calls between a customer and a support agent. Each call is linked to a short scenario describing the customer's problem.</p>\n<p>You will hear <strong>two recordings about the same problem</strong>. Your task is to compare them and answer questions about which audio is better according to different criteria. For example: <em>\u201cThe customer explained their problems clearly and correctly\u201d \u2014 does this statement align more with Recording 1, Recording 2, or equally with both?</em></p>\n<p>You will also see a transcript, but please listen carefully: some questions focus on tone of voice and other subtle differences that can only be understood from the audio.</p>\n<p>If your answers are at least 90% accurate, you will receive a bonus payment.</p>"
+  },
+  "recordings": [
+    {
+      "id": "05cbfba7-5e1f-4e8c-9b9d-36cd3622d028",
+      "source_id": "Cekura-TC_008-Olivia",
+      "title": "Audio Sample 1",
+      "transcript": [
+        {
+          "role": "user",
+          "content": "*****?",
+          "start_time": 0.08,
+          "end_time": 0.96
+        },
+        {
+          "role": "assistant",
+          "content": "**** ** **** **** *****. *** *** * **** ***?",
+          "start_time": 0.88,
+          "end_time": 3.1999998
+        },
+        {
+          "role": "user",
+          "content": "* **** ** ******** ** ******* ***** ***. **** ** ************. ***'* *** ** **** *******.",
+          "start_time": 4.7999997,
+          "end_time": 9.36
+        },
+        {
+          "role": "assistant",
+          "content": "* ********** *** **** ** ******** **** *******. *****, *** **** ** ***** *** ******** **** ** *** ********** ***** *** ********. *** *** **** ** ****** **** ***** ***?",
+          "start_time": 12.735,
+          "end_time": 21.615
+        },
+        {
+          "role": "user",
+          "content": "*** ** * **** ** ** ****? **** ******** ** *** **. * **** **** **** ****.",
+          "start_time": 22.654999,
+          "end_time": 26.255001
+        },
+        {
+          "role": "assistant",
+          "content": "* ***'* ******** ** *** ***, *** *'** ***** *** ******* **. **** *** ***** *** ****, ***'** ****** * ******** *** ***** ** *** *****. *** *** ***** ** **** **** *****?",
+          "start_time": 29.21,
+          "end_time": 37.21
+        },
+        {
+          "role": "user",
+          "content": "****. *'** **** *** *** *****, *** * **** **** ******** *******. * ***'* **** **** ** *****.",
+          "start_time": 38.48,
+          "end_time": 42.925
+        },
+        {
+          "role": "assistant",
+          "content": "****** **** **** **** ** ***** **** ***** *** *** ********** ****, *** *** ** **** **** ***'** ***** ** ******** ** ** *** **** *** **** ******* **.",
+          "start_time": 46.934998,
+          "end_time": 54.695
+        },
+        {
+          "role": "user",
+          "content": "****.",
+          "start_time": 55.899998,
+          "end_time": 56.86
+        },
+        {
+          "role": "user",
+          "content": "* ***** *** *****. *** ****? **** **** ** *** ** ****** ****.",
+          "start_time": 57.66,
+          "end_time": 60.94
+        },
+        {
+          "role": "assistant",
+          "content": "*****. *** ***** *** ******** **** ** **** *****. *** ** **** ** *** **** *** ******* **** **** ****. ****?",
+          "start_time": 66.04,
+          "end_time": 71.4
+        },
+        {
+          "role": "user",
+          "content": "* ******* **. ****'* ****? **** ****** *** **** ****.",
+          "start_time": 72.475,
+          "end_time": 75.835
+        },
+        {
+          "role": "assistant",
+          "content": "*** ****** *** ******* **** ********, **** ***** ** *** ***** ** ***. **** ***'** **** ****, **** ***** ** ******** *******. *** ** **** ** *** **** **** ****.",
+          "start_time": 79.775,
+          "end_time": 88.095
+        },
+        {
+          "role": "user",
+          "content": "****.",
+          "start_time": 89.165,
+          "end_time": 90.524994
+        },
+        {
+          "role": "user",
+          "content": "*'* ***** **. **** **** **** *****, ****. * ***** ******** * ******* ***** *****.",
+          "start_time": 90.524994,
+          "end_time": 94.924995
+        },
+        {
+          "role": "assistant",
+          "content": "****, ***** **** ****** ****** *** ***** ****** **************.",
+          "start_time": 98.06,
+          "end_time": 101.18
+        },
+        {
+          "role": "assistant",
+          "content": "** *** **** *** ********** **** **** ****?",
+          "start_time": 101.34,
+          "end_time": 103.17999
+        },
+        {
+          "role": "user",
+          "content": "**. * *** **. **** *** ** ****** **** ** * *** ******** *** *******.",
+          "start_time": 104.299995,
+          "end_time": 108.299995
+        },
+        {
+          "role": "user",
+          "content": "****'* ****?",
+          "start_time": 108.53999,
+          "end_time": 109.259995
+        },
+        {
+          "role": "assistant",
+          "content": "**** ***'** **** ****, **** ******* ****** ** *********. *** *** ***** ** ******** **** *******?",
+          "start_time": 113.475,
+          "end_time": 118.034996
+        },
+        {
+          "role": "user",
+          "content": "*******.",
+          "start_time": 119.034996,
+          "end_time": 119.91499
+        },
+        {
+          "role": "user",
+          "content": "***. ***'* *** **** ******* *********. **** ** *****.",
+          "start_time": 119.91499,
+          "end_time": 122.634995
+        },
+        {
+          "role": "assistant",
+          "content": "** ******** * *******, *** *** ******** ****** ** *** ******** ******. ****** *** *********** **** *** **** **** ***** *** ***. ***** *** **** **** **** *** **** *****?",
+          "start_time": 126.09,
+          "end_time": 135.29
+        },
+        {
+          "role": "user",
+          "content": "* *******'* **** ****. **** **** ** *** ** *** ** ********* *******. * ***'* **** *** ***.",
+          "start_time": 136.33,
+          "end_time": 140.905
+        },
+        {
+          "role": "assistant",
+          "content": "****** * **** **** **** ******* *** ********'* **********, ** *********.",
+          "start_time": 145.105,
+          "end_time": 149.425
+        },
+        {
+          "role": "assistant",
+          "content": "**** ** **** *****?",
+          "start_time": 149.50499,
+          "end_time": 150.305
+        },
+        {
+          "role": "user",
+          "content": "****. * *** **. *** ** **** **** * ****. *** ***** ** *** **** **** ****.",
+          "start_time": 151.385,
+          "end_time": 155.43999
+        },
+        {
+          "role": "assistant",
+          "content": "****** *** ************ ******. ***** *** ******* *** *** ****** *******.",
+          "start_time": 158.53,
+          "end_time": 162.85
+        },
+        {
+          "role": "assistant",
+          "content": "*****?",
+          "start_time": 162.93,
+          "end_time": 163.40999
+        },
+        {
+          "role": "user",
+          "content": "****. *** ***** **. *** **** **** ***** ** * **** ** **** ****?",
+          "start_time": 164.415,
+          "end_time": 168.015
+        },
+        {
+          "role": "user",
+          "content": "**** ** ******** **.",
+          "start_time": 168.33499,
+          "end_time": 169.45499
+        },
+        {
+          "role": "assistant",
+          "content": "***** ******** ***** *******, **** ***** ********,",
+          "start_time": 173.015,
+          "end_time": 176.05501
+        },
+        {
+          "role": "assistant",
+          "content": "**** ********.",
+          "start_time": 176.295,
+          "end_time": 177.335
+        },
+        {
+          "role": "assistant",
+          "content": "** ** *** *** ***?",
+          "start_time": 177.415,
+          "end_time": 178.455
+        },
+        {
+          "role": "user",
+          "content": "*******,",
+          "start_time": 179.23,
+          "end_time": 180.10999
+        },
+        {
+          "role": "user",
+          "content": "***. **'* ****. *** * **** **** ******* ******* ****** **** ******* *****. *** ** **** **?",
+          "start_time": 180.10999,
+          "end_time": 185.31
+        },
+        {
+          "role": "assistant",
+          "content": "*** *** ***** * ******* ******* ** ******** ***** ******* ******* ** *** ******** ****. ***** *** **** ******* ******** ** ****?",
+          "start_time": 189.26999,
+          "end_time": 196.185
+        },
+        {
+          "role": "user",
+          "content": "**. * ***'* **** ********. **** **** ** *** ** *** ** ****.",
+          "start_time": 197.16501,
+          "end_time": 199.96501
+        },
+        {
+          "role": "assistant",
+          "content": "**** ***** *** ***** *****'* ****, *****, *** ****** ********** *****.",
+          "start_time": 203.14499,
+          "end_time": 207.305
+        },
+        {
+          "role": "user",
+          "content": "*******. *** ** ** ****. **** **** ** * ******. **** ****** ** *** **** ****.",
+          "start_time": 208.70001,
+          "end_time": 212.62001
+        },
+        {
+          "role": "assistant",
+          "content": "****** ** ***** *** ***** *** ******* *******. ***** ***** ******* *******, ***** *** *****'* *******, *** ***** *****.",
+          "start_time": 217.58,
+          "end_time": 224.685
+        },
+        {
+          "role": "assistant",
+          "content": "**** *** ** **** ** *** **** *** ******* **** ***** ***'** ***** ****.",
+          "start_time": 224.765,
+          "end_time": 227.485
+        },
+        {
+          "role": "user",
+          "content": "****.",
+          "start_time": 228.72,
+          "end_time": 229.52
+        },
+        {
+          "role": "user",
+          "content": "* ******* *****.",
+          "start_time": 229.76,
+          "end_time": 231.04001
+        },
+        {
+          "role": "user",
+          "content": "** **** **? *'* **** **** ****. *****?",
+          "start_time": 231.12,
+          "end_time": 233.28
+        },
+        {
+          "role": "assistant",
+          "content": "****'* ***. **** * **** ***, *** ***** *** ** *** **** ****.",
+          "start_time": 236.765,
+          "end_time": 239.725
+        }
+      ],
+      "audio_url": "https://development-recordings-evalion.storage.googleapis.com/surveys/study-pairwise-comparison/audios/05cbfba7-5e1f-4e8c-9b9d-36cd3622d028.wav"
+    },
+    {
+      "id": "5346de5a-6956-4feb-b950-454d9f0362dd",
+      "source_id": "Applause-TC_008-Olivia",
+      "title": "Audio Sample 2",
+      "transcript": [
+        {
+          "role": "assistant",
+          "content": "*****. **** ** **** **** *****. *** *** * **** ***?",
+          "start_time": 0.79999995,
+          "end_time": 3.9199998
+        },
+        {
+          "role": "user",
+          "content": "*****? **** **.",
+          "start_time": 1.36,
+          "end_time": 2.8
+        },
+        {
+          "role": "user",
+          "content": "**** *** ******. *'* **** ****. * **** * *** ** ***** ***** **, *** * *'** *** *** ***** **** **** ** ** *******,",
+          "start_time": 5.04,
+          "end_time": 12.4
+        },
+        {
+          "role": "user",
+          "content": "*** * **** **",
+          "start_time": 12.4,
+          "end_time": 13.28
+        },
+        {
+          "role": "user",
+          "content": "* * ******* * *** ** ** ****, *** *** **'* **, ***** ** **. ***** ** **. ****. ** **** ****. *** *** * *****?",
+          "start_time": 13.84,
+          "end_time": 21.884998
+        },
+        {
+          "role": "assistant",
+          "content": "***. *'* ** ********* ********* **** ** **** **** ***** ******* *********.",
+          "start_time": 23.765,
+          "end_time": 27.525
+        },
+        {
+          "role": "user",
+          "content": "**, ****. ****.",
+          "start_time": 28.445,
+          "end_time": 30.199999
+        },
+        {
+          "role": "user",
+          "content": "****. ****, *********, *** *** ** ****. * ***'* ****. * ***'* *",
+          "start_time": 30.359999,
+          "end_time": 34.6
+        },
+        {
+          "role": "user",
+          "content": "***'* ****.",
+          "start_time": 34.76,
+          "end_time": 35.48
+        },
+        {
+          "role": "user",
+          "content": "* * **** **** *********. *** *** ***** ** **** ** ****** *********?",
+          "start_time": 37.0,
+          "end_time": 40.76
+        },
+        {
+          "role": "assistant",
+          "content": "**********. * *** **** **** **** ********* ***** *****. ****'* ** **** ****?",
+          "start_time": 44.335,
+          "end_time": 48.094997
+        },
+        {
+          "role": "user",
+          "content": "****. ** * **** ** *******, *** **'* *** ********* ***.",
+          "start_time": 49.805,
+          "end_time": 55.805
+        },
+        {
+          "role": "user",
+          "content": "* **** **** **",
+          "start_time": 56.125,
+          "end_time": 59.485
+        },
+        {
+          "role": "user",
+          "content": "******** * *******. *'** *** ** ******* **** ** *** ******.",
+          "start_time": 58.320004,
+          "end_time": 62.4
+        },
+        {
+          "role": "user",
+          "content": "*** ****",
+          "start_time": 63.04,
+          "end_time": 63.920002
+        },
+        {
+          "role": "user",
+          "content": "**** ** **** **** ** ****,",
+          "start_time": 64.880005,
+          "end_time": 67.44
+        },
+        {
+          "role": "user",
+          "content": "* **** ** ***** **** ******* **** ** *********.",
+          "start_time": 68.0,
+          "end_time": 71.12
+        },
+        {
+          "role": "assistant",
+          "content": "*** **. ***'* ******** **** ******* *****. ***** **** ***** *** **** ***** ********** ****. **** **** ******* **?",
+          "start_time": 74.645004,
+          "end_time": 80.565
+        },
+        {
+          "role": "user",
+          "content": "***.",
+          "start_time": 81.795,
+          "end_time": 82.195
+        },
+        {
+          "role": "assistant",
+          "content": "***** **** ***** *** ** ********** **** **** ******-*************.***.",
+          "start_time": 85.28,
+          "end_time": 90.399994
+        },
+        {
+          "role": "assistant",
+          "content": "***** **?",
+          "start_time": 90.479996,
+          "end_time": 91.04
+        },
+        {
+          "role": "user",
+          "content": "*** *** **** **, ****, *** *******?",
+          "start_time": 93.84,
+          "end_time": 96.0
+        },
+        {
+          "role": "user",
+          "content": "* **** ****** ** *****.",
+          "start_time": 96.32,
+          "end_time": 98.159996
+        },
+        {
+          "role": "user",
+          "content": "****. * ***** **.",
+          "start_time": 100.32,
+          "end_time": 101.6
+        },
+        {
+          "role": "assistant",
+          "content": "**** *****. **** **** ****.",
+          "start_time": 100.424995,
+          "end_time": 102.024994
+        },
+        {
+          "role": "user",
+          "content": "** ** ********. ***'* *********.",
+          "start_time": 102.455,
+          "end_time": 104.695
+        },
+        {
+          "role": "user",
+          "content": "* **** ***** **.",
+          "start_time": 104.775,
+          "end_time": 106.135
+        },
+        {
+          "role": "user",
+          "content": "**** **** ** * ******** ** **?",
+          "start_time": 107.015,
+          "end_time": 108.615
+        },
+        {
+          "role": "assistant",
+          "content": "***** *** ********** ****, **** ****** *** ******* **** ********. ***** *** *** **** ****?",
+          "start_time": 110.905,
+          "end_time": 115.305
+        },
+        {
+          "role": "user",
+          "content": "* *** **** ***** **** ***** *",
+          "start_time": 118.509995,
+          "end_time": 121.39
+        },
+        {
+          "role": "user",
+          "content": "***** ** *** *** ******* ******. ** * ******** ** ** ******** **** ****?",
+          "start_time": 121.71,
+          "end_time": 126.27
+        },
+        {
+          "role": "assistant",
+          "content": "***. ***'** **** ** ***** ** *** ***** ** *** *** ******* ****** ** ********.",
+          "start_time": 129.205,
+          "end_time": 133.52501
+        },
+        {
+          "role": "user",
+          "content": "*******.",
+          "start_time": 135.33499,
+          "end_time": 136.13501
+        },
+        {
+          "role": "user",
+          "content": "****'* ****?",
+          "start_time": 136.215,
+          "end_time": 137.335
+        },
+        {
+          "role": "assistant",
+          "content": "***** ********, *** ** **** *** ** ******** ******* *** ** *****. ***** *** ****?",
+          "start_time": 139.925,
+          "end_time": 145.03001
+        },
+        {
+          "role": "user",
+          "content": "****.",
+          "start_time": 146.935,
+          "end_time": 147.33499
+        },
+        {
+          "role": "assistant",
+          "content": "*****. **** *** ** *** **, *** *** ******** **** *******. ***** ** **** **?",
+          "start_time": 149.75,
+          "end_time": 153.91
+        },
+        {
+          "role": "user",
+          "content": "**** * ******. **** * ******. ****",
+          "start_time": 155.26,
+          "end_time": 157.66
+        },
+        {
+          "role": "user",
+          "content": "*** *** ******? ***,",
+          "start_time": 157.66,
+          "end_time": 159.5
+        },
+        {
+          "role": "user",
+          "content": "***?",
+          "start_time": 159.58,
+          "end_time": 160.45999
+        },
+        {
+          "role": "user",
+          "content": "* ***'* **********.",
+          "start_time": 160.45999,
+          "end_time": 161.5
+        },
+        {
+          "role": "user",
+          "content": "* ***'* **** **** ***** ******** ***. *'* *** * *'* *** *",
+          "start_time": 161.905,
+          "end_time": 166.465
+        },
+        {
+          "role": "user",
+          "content": "*",
+          "start_time": 166.78499,
+          "end_time": 167.585
+        },
+        {
+          "role": "user",
+          "content": "*",
+          "start_time": 167.665,
+          "end_time": 168.14499
+        },
+        {
+          "role": "user",
+          "content": "*** ** ***** ****** **** ***** ********.",
+          "start_time": 168.705,
+          "end_time": 171.025
+        },
+        {
+          "role": "assistant",
+          "content": "** *******. *** ****** *** *********** **************,",
+          "start_time": 174.56,
+          "end_time": 178.48001
+        },
+        {
+          "role": "assistant",
+          "content": "* ***** **** *** ***** ********.",
+          "start_time": 178.64,
+          "end_time": 180.72002
+        },
+        {
+          "role": "assistant",
+          "content": "***'** ****** ******* **** ** ***** *** * ****. **** **** ****?",
+          "start_time": 180.88,
+          "end_time": 184.40001
+        },
+        {
+          "role": "user",
+          "content": "****. * ***** **. ****. **",
+          "start_time": 188.70999,
+          "end_time": 191.67
+        },
+        {
+          "role": "user",
+          "content": "** ***** **** ** *******'* *********",
+          "start_time": 192.375,
+          "end_time": 194.535
+        },
+        {
+          "role": "user",
+          "content": "***. * **** ** ** ******* ***",
+          "start_time": 194.535,
+          "end_time": 197.57501
+        },
+        {
+          "role": "user",
+          "content": "*** ****, ****'** ******* ***** ****. * * ****** **** **",
+          "start_time": 198.215,
+          "end_time": 201.975
+        },
+        {
+          "role": "user",
+          "content": "***** ** *** *** **** *****",
+          "start_time": 202.615,
+          "end_time": 205.015
+        },
+        {
+          "role": "user",
+          "content": "** * *** ******** ***** *******. ****'** ****'** *** ********* ** **.",
+          "start_time": 205.175,
+          "end_time": 209.41002
+        },
+        {
+          "role": "user",
+          "content": "*** *** **** ** ** *** **?",
+          "start_time": 210.05,
+          "end_time": 211.89001
+        },
+        {
+          "role": "assistant",
+          "content": "* ***'* ** ** *** ***, *** * *** ***** ***. ***** ** ******* **** **********?",
+          "start_time": 215.55501,
+          "end_time": 219.395
+        },
+        {
+          "role": "user",
+          "content": "***.",
+          "start_time": 222.37001,
+          "end_time": 222.77
+        },
+        {
+          "role": "assistant",
+          "content": "*****. ** ** *** ******** ****** *** ***** ********.",
+          "start_time": 227.09,
+          "end_time": 230.13
+        },
+        {
+          "role": "assistant",
+          "content": "**** **** *******?",
+          "start_time": 230.20999,
+          "end_time": 231.41
+        },
+        {
+          "role": "user",
+          "content": "****. *** ******** ****** ** ****?",
+          "start_time": 232.355,
+          "end_time": 234.67499
+        },
+        {
+          "role": "assistant",
+          "content": "**** ** *** ******** ****** ** **** ********** ***** *********.",
+          "start_time": 237.40999,
+          "end_time": 240.61
+        },
+        {
+          "role": "assistant",
+          "content": "**** **** **** ****?",
+          "start_time": 240.68999,
+          "end_time": 241.56999
+        },
+        {
+          "role": "user",
+          "content": "****. **** ****'* *** ********** ***** *********?",
+          "start_time": 243.5,
+          "end_time": 247.42001
+        },
+        {
+          "role": "user",
+          "content": "* *** **** ** ** ** ** ** *****.",
+          "start_time": 247.58,
+          "end_time": 249.42
+        },
+        {
+          "role": "assistant",
+          "content": "*** ********** ***** **** ***** ** *****'* ******** *** ******** *****, ******* *********, *** ************. **'* ***** *** ****** *** ******* *****.",
+          "start_time": 252.965,
+          "end_time": 260.65
+        },
+        {
+          "role": "user",
+          "content": "****. ****, *'* ***** **** *** ** ***** *******, *** ****, *** *** **** ** *** ****, ** *** ***'* ****. ****. ** *'** *** ****.",
+          "start_time": 262.305,
+          "end_time": 270.84
+        },
+        {
+          "role": "user",
+          "content": "* ******",
+          "start_time": 271.32,
+          "end_time": 272.6
+        },
+        {
+          "role": "user",
+          "content": "******* *** ***** ** **",
+          "start_time": 272.6,
+          "end_time": 274.6
+        },
+        {
+          "role": "user",
+          "content": "*******,",
+          "start_time": 275.56,
+          "end_time": 276.68
+        },
+        {
+          "role": "user",
+          "content": "*** *** ****'* ****. ***** ** * **** *** ******** ******?",
+          "start_time": 277.0,
+          "end_time": 280.44
+        },
+        {
+          "role": "assistant",
+          "content": "** **** *********,",
+          "start_time": 284.68,
+          "end_time": 286.04
+        },
+        {
+          "role": "assistant",
+          "content": "**** ** **** **** ******** ** **** *** ******** ******. *** **?",
+          "start_time": 286.04,
+          "end_time": 289.72
+        },
+        {
+          "role": "user",
+          "content": "****. ** * **** ** ** ****** **?",
+          "start_time": 290.935,
+          "end_time": 292.535
+        },
+        {
+          "role": "assistant",
+          "content": "***. ***'** **** ** ** ****** ** ** ****** *** *********.",
+          "start_time": 296.155,
+          "end_time": 298.875
+        },
+        {
+          "role": "user",
+          "content": "**, ****. * ***** **** ** ********",
+          "start_time": 299.88998,
+          "end_time": 302.37
+        },
+        {
+          "role": "user",
+          "content": "*****.",
+          "start_time": 302.37,
+          "end_time": 303.16998
+        },
+        {
+          "role": "user",
+          "content": "**** ** * ******.",
+          "start_time": 305.97,
+          "end_time": 306.93
+        },
+        {
+          "role": "assistant",
+          "content": "** *******. **** * ****** ** **** **** ********.",
+          "start_time": 306.57,
+          "end_time": 309.21
+        },
+        {
+          "role": "assistant",
+          "content": "****'* ****. **** **** ****.",
+          "start_time": 311.61,
+          "end_time": 312.88998
+        },
+        {
+          "role": "user",
+          "content": "****. ****",
+          "start_time": 313.825,
+          "end_time": 314.785
+        },
+        {
+          "role": "user",
+          "content": "**** ****. **'* ****, ****, *** *******. *'* ***** *******.",
+          "start_time": 315.825,
+          "end_time": 319.345
+        },
+        {
+          "role": "user",
+          "content": "*******. * ***** **. *** * *** ** *****.",
+          "start_time": 321.32,
+          "end_time": 324.6
+        },
+        {
+          "role": "user",
+          "content": "*",
+          "start_time": 326.76,
+          "end_time": 327.4
+        },
+        {
+          "role": "user",
+          "content": "*",
+          "start_time": 328.44,
+          "end_time": 329.24
+        },
+        {
+          "role": "user",
+          "content": "*",
+          "start_time": 330.44,
+          "end_time": 331.24
+        },
+        {
+          "role": "user",
+          "content": "*",
+          "start_time": 331.8,
+          "end_time": 334.52
+        },
+        {
+          "role": "assistant",
+          "content": "**** **** ****.",
+          "start_time": 332.19498,
+          "end_time": 332.91498
+        },
+        {
+          "role": "assistant",
+          "content": "** *******. **** *** ** **** ******** ***'** *****.",
+          "start_time": 335.16998,
+          "end_time": 337.56998
+        },
+        {
+          "role": "user",
+          "content": "***",
+          "start_time": 335.67502,
+          "end_time": 336.075
+        },
+        {
+          "role": "user",
+          "content": "* ***'* **** **** **** **** **, *** ***'** **** **** **** *** ************.",
+          "start_time": 339.515,
+          "end_time": 343.915
+        },
+        {
+          "role": "user",
+          "content": "************.***.",
+          "start_time": 345.515,
+          "end_time": 360.845
+        },
+        {
+          "role": "user",
+          "content": "*** **** ** ****",
+          "start_time": 361.245,
+          "end_time": 362.845
+        },
+        {
+          "role": "assistant",
+          "content": "*** **.",
+          "start_time": 362.0,
+          "end_time": 362.8
+        },
+        {
+          "role": "user",
+          "content": "** ********",
+          "start_time": 363.725,
+          "end_time": 365.005
+        },
+        {
+          "role": "user",
+          "content": "** ** ***'* ****,",
+          "start_time": 365.645,
+          "end_time": 367.565
+        },
+        {
+          "role": "user",
+          "content": "* * * * *",
+          "start_time": 368.605,
+          "end_time": 371.005
+        },
+        {
+          "role": "assistant",
+          "content": "*** ****",
+          "start_time": 370.0,
+          "end_time": 371.36
+        },
+        {
+          "role": "user",
+          "content": "****** **.",
+          "start_time": 372.365,
+          "end_time": 373.405
+        },
+        {
+          "role": "user",
+          "content": "* * *",
+          "start_time": 374.24,
+          "end_time": 375.68
+        },
+        {
+          "role": "assistant",
+          "content": "*** **.",
+          "start_time": 374.735,
+          "end_time": 375.455
+        },
+        {
+          "role": "user",
+          "content": "**'* **** ********.",
+          "start_time": 378.08,
+          "end_time": 380.0
+        },
+        {
+          "role": "assistant",
+          "content": "*******.",
+          "start_time": 379.215,
+          "end_time": 379.69498
+        },
+        {
+          "role": "user",
+          "content": "* * * * * *",
+          "start_time": 380.47998,
+          "end_time": 383.68
+        },
+        {
+          "role": "user",
+          "content": "*********** *****. ****. *'* ****** **.",
+          "start_time": 384.32,
+          "end_time": 386.96
+        },
+        {
+          "role": "user",
+          "content": "**** ** * ******** ** ** ***?",
+          "start_time": 388.405,
+          "end_time": 390.165
+        },
+        {
+          "role": "assistant",
+          "content": "*** ** *** ******** ******, ***** ******** ** *** ** **** *******.",
+          "start_time": 393.68,
+          "end_time": 397.52
+        },
+        {
+          "role": "user",
+          "content": "****. *** *****'* *** ******** ******?",
+          "start_time": 398.725,
+          "end_time": 400.80502
+        },
+        {
+          "role": "assistant",
+          "content": "**** ****** **, ******** ** **** **** ******** ** **** *** ******** ******.",
+          "start_time": 403.785,
+          "end_time": 408.105
+        },
+        {
+          "role": "user",
+          "content": "** ** ***. **** * **** *** * ***'* ***** ****.",
+          "start_time": 409.09,
+          "end_time": 412.85
+        },
+        {
+          "role": "user",
+          "content": "**** ** ** *****, ****, * ******* ** ********* ** *****? *** ** * ******** ** **** ***** ***** **** **?",
+          "start_time": 413.345,
+          "end_time": 418.865
+        },
+        {
+          "role": "assistant",
+          "content": "**** *** * ******* **** **** ******* ** *** ***. ********* ** ** **** *********** **** ****** **** *** **** ******.",
+          "start_time": 422.78,
+          "end_time": 429.18002
+        },
+        {
+          "role": "user",
+          "content": "***'* ***** **** *** ***** ****** ******? ****, ** ** ****",
+          "start_time": 431.4,
+          "end_time": 435.88
+        },
+        {
+          "role": "user",
+          "content": "** *********?",
+          "start_time": 435.88,
+          "end_time": 436.92
+        },
+        {
+          "role": "user",
+          "content": "*** ** ***** ****** ********.",
+          "start_time": 438.6,
+          "end_time": 440.04
+        },
+        {
+          "role": "assistant",
+          "content": "**** *** ** **** ** ******* ******* ******** **** *** ***. **** **** ****?",
+          "start_time": 444.94,
+          "end_time": 449.34
+        },
+        {
+          "role": "user",
+          "content": "****. ****. * ***** **. ****. ** *** * ****, * **** * ****** ***** *** **** *****. ** ***** ***** ** ****. * ***** *** ***** ***** *********. ****'** *** ********* ** **.",
+          "start_time": 451.815,
+          "end_time": 461.55002
+        },
+        {
+          "role": "user",
+          "content": "**** ******** ** *** ****. *** ** * ******** **?",
+          "start_time": 461.95,
+          "end_time": 465.23
+        },
+        {
+          "role": "assistant",
+          "content": "***** ********,",
+          "start_time": 470.37,
+          "end_time": 471.73
+        },
+        {
+          "role": "assistant",
+          "content": "**** ****** * ****, **** ****, *** ************ ******. ****?",
+          "start_time": 471.81,
+          "end_time": 475.33002
+        },
+        {
+          "role": "user",
+          "content": "* **** ***** **** ** *** ****** *****.",
+          "start_time": 480.42502,
+          "end_time": 482.58502
+        },
+        {
+          "role": "user",
+          "content": "*****?",
+          "start_time": 491.88,
+          "end_time": 493.0
+        },
+        {
+          "role": "user",
+          "content": "* ***** *'** **** *** **** ****** *****.",
+          "start_time": 500.28,
+          "end_time": 503.31503
+        },
+        {
+          "role": "user",
+          "content": "* **** **** * **** *** * **** ** ***** **** ******* ******* **** ** *********. * * ******* ******* *** *** ** ******** *** ***********. **. ****** ** ***.",
+          "start_time": 504.355,
+          "end_time": 513.79504
+        },
+        {
+          "role": "user",
+          "content": "*** ** *",
+          "start_time": 517.20996,
+          "end_time": 518.17
+        },
+        {
+          "role": "user",
+          "content": "*** ** * ***** **** ******* *******? *****? *** *** ******* *****?",
+          "start_time": 518.64996,
+          "end_time": 522.41
+        },
+        {
+          "role": "user",
+          "content": "*****?",
+          "start_time": 524.97,
+          "end_time": 525.77
+        },
+        {
+          "role": "user",
+          "content": "*****?",
+          "start_time": 527.61,
+          "end_time": 528.32996
+        },
+        {
+          "role": "user",
+          "content": "*****?",
+          "start_time": 530.705,
+          "end_time": 531.505
+        },
+        {
+          "role": "user",
+          "content": "*****?",
+          "start_time": 534.625,
+          "end_time": 535.425
+        },
+        {
+          "role": "user",
+          "content": "* ***'* **** **** **** **** **** ** ** **** *** ** **** ****.",
+          "start_time": 536.945,
+          "end_time": 540.305
+        },
+        {
+          "role": "user",
+          "content": "*****?",
+          "start_time": 541.505,
+          "end_time": 542.065
+        },
+        {
+          "role": "user",
+          "content": "*****?",
+          "start_time": 545.54004,
+          "end_time": 546.34
+        },
+        {
+          "role": "user",
+          "content": "***. **** ** **********. * ***'* **********. *** *****'* ******* *** *** **** ** ****** *******?",
+          "start_time": 548.34,
+          "end_time": 554.10004
+        },
+        {
+          "role": "user",
+          "content": "*****?",
+          "start_time": 557.845,
+          "end_time": 558.565
+        },
+        {
+          "role": "user",
+          "content": "****.",
+          "start_time": 559.845,
+          "end_time": 560.565
+        },
+        {
+          "role": "user",
+          "content": "*******. *'* ****** ****, ****,",
+          "start_time": 560.805,
+          "end_time": 562.885
+        },
+        {
+          "role": "user",
+          "content": "******* *******, *** *'* ******* ** *** ********* ** ****",
+          "start_time": 563.285,
+          "end_time": 567.84503
+        },
+        {
+          "role": "user",
+          "content": "**",
+          "start_time": 568.40497,
+          "end_time": 568.96497
+        },
+        {
+          "role": "user",
+          "content": "********* ***** **** * *****.",
+          "start_time": 570.69,
+          "end_time": 572.77
+        },
+        {
+          "role": "user",
+          "content": "****, * ***** **'* *** *****'* *** ****.",
+          "start_time": 581.97003,
+          "end_time": 584.29004
+        }
+      ],
+      "audio_url": "https://development-recordings-evalion.storage.googleapis.com/surveys/study-pairwise-comparison/audios/5346de5a-6956-4feb-b950-454d9f0362dd.wav"
+    }
+  ],
+  "questions": [
+    {
+      "id": "study-pairwise-comparison-001",
+      "prompt": "Which audio is more aligned with the following statement?\nThe customer talked about all the issues in the scenario.",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-002",
+      "prompt": "Which audio is more aligned with the following statement?\nThe customer explained their problems clearly and correctly.",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-003",
+      "prompt": "Which audio is more aligned with the following statement?\nThe customer made sure that all the problems they mentioned were addressed during the call (for example by asking follow-up questions, coming back to an unresolved step...)",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-004",
+      "prompt": "Which audio is more aligned with the following statement?\nThe customer brought up problems that were not in the scenario.",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-005",
+      "prompt": "Overall in which audio did the customer act more according to the scenario?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-006",
+      "prompt": "In which audio the customer's voice sounds more human, not robotic?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-007",
+      "prompt": "In which audio the customer talks at a more natural pace -- smooth, not too fast, slow, or broken up?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-008",
+      "prompt": "In which audio the customer's tone makes their feelings more clear (e.g., happy, annoyed, stressed, confused)?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-009",
+      "prompt": "In which audio the customer uses more simple, natural words that are easy to understand?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-010",
+      "prompt": "In which audio the customer's replies make more sense and better follow the conversation?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-011",
+      "prompt": "Overall, in which audio the customer sounds more like a real person?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-012",
+      "prompt": "In which audio the customer sounds more calm?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-013",
+      "prompt": "In which audio the customer is more cooperative in trying to solve the problem with the support agent?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-014",
+      "prompt": "In which audio the customer explains themselves more clearly and concisely, without being overly wordy?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-015",
+      "prompt": "In which audio the customer uses more polite and respectful language towards the agent?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    },
+    {
+      "id": "study-pairwise-comparison-016",
+      "prompt": "In which audio the customer sounds more patient and willing to wait, not rushed or demanding?",
+      "type": "comparison",
+      "options": [
+        "Left recording",
+        "Right recording",
+        "No difference between recordings"
+      ]
+    }
+  ]
+}

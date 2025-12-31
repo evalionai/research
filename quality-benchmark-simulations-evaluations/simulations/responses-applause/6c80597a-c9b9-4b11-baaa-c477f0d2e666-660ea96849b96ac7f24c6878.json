@@ -1,0 +1,121 @@
+{
+  "prolificId": "660ea96849b96ac7f24c6878",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "6c80597a-c9b9-4b11-baaa-c477f0d2e666",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 209.185,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 130.20000000000002,
+    "totalListeningTime": 131.252,
+    "overallCoverage": 1.008079877112135,
+    "audioFiles": [
+      {
+        "id": "41d74424-513c-4bf1-82bb-65e062103ed6",
+        "title": "Audio Sample 1",
+        "duration": 90.18,
+        "hasBeenListened": true,
+        "totalListeningTime": 91.327,
+        "coverage": 1.0127190064315812,
+        "playSessionCount": 39
+      },
+      {
+        "id": "68eeca0b-04b7-4bcf-a954-ee1ac969c0a2",
+        "title": "Audio Sample 2",
+        "duration": 40.02,
+        "hasBeenListened": true,
+        "totalListeningTime": 39.925,
+        "coverage": 0.9976261869065466,
+        "playSessionCount": 21
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "After scheduling a closing (loan signing process) you want to find the notary's contact details. Ask where exactly they are displayed.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

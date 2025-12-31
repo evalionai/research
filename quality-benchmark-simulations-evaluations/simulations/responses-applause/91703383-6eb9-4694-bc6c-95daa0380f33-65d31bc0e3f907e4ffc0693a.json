@@ -1,0 +1,121 @@
+{
+  "prolificId": "65d31bc0e3f907e4ffc0693a",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "91703383-6eb9-4694-bc6c-95daa0380f33",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Right recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 513.59,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 267.846,
+    "totalListeningTime": 267.98,
+    "overallCoverage": 1.0005002874786257,
+    "audioFiles": [
+      {
+        "id": "b827acb5-2a72-48f8-9fd5-0df5c1fa6b1f",
+        "title": "Audio Sample 1",
+        "duration": 156.038,
+        "hasBeenListened": true,
+        "totalListeningTime": 156.091,
+        "coverage": 1.0003396608518438,
+        "playSessionCount": 54
+      },
+      {
+        "id": "cbbf4ec2-5a8e-4adc-af9e-ff7ad6d6153b",
+        "title": "Audio Sample 2",
+        "duration": 111.808,
+        "hasBeenListened": true,
+        "totalListeningTime": 111.889,
+        "coverage": 1.0007244562106468,
+        "playSessionCount": 35
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You are a notary, and a settlement agent has just shared a closing package (the set of loan documents) with you. You need to activate your Notary Workspace account, pick a Multi-Factor Authentication (MFA) method for security, finish filling out your profile, and then access the documents.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "prolificId": "6748f8e31516667cc3eb71e8",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "8654188a-fe89-4103-b525-14351f08208d",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 484.756,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 304.915,
+    "totalListeningTime": 304.988,
+    "overallCoverage": 1.0002394109833888,
+    "audioFiles": [
+      {
+        "id": "ff0578c6-1231-47da-9daa-91d9d4769743",
+        "title": "Audio Sample 1",
+        "duration": 212.555,
+        "hasBeenListened": true,
+        "totalListeningTime": 212.605,
+        "coverage": 1.0002352332337512,
+        "playSessionCount": 70
+      },
+      {
+        "id": "6505d422-364e-46a5-94db-6744840d62de",
+        "title": "Audio Sample 2",
+        "duration": 92.36,
+        "hasBeenListened": true,
+        "totalListeningTime": 92.383,
+        "coverage": 1.000249025552187,
+        "playSessionCount": 29
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You have a bad connection that cuts out occasionally. You need to reset your password, but the email isn't arriving. You also need to upload a document for a closing (loan signing process) that is happening in 10 minutes, but the upload button isn't working. During the call, you must interrupt the agent and ask if Blend offers services in Canada.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

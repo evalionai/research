@@ -1,0 +1,121 @@
+{
+  "prolificId": "5f51947ba90f9b3ea1d2fe61",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "36ec42e4-02b5-43a1-8384-da2d1e6270b5",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Left recording",
+      "feedback": "left asked about how long it took to finalize details(not specifically in scenario description but still somewhat relevant I suppose)"
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "No difference between recordings",
+      "feedback": "both followed it...right was a lot more to the point and left had a lo tof repetition"
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": "left's speech was a lot more smooth but also felt synthetic"
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": "right speciifcally mentioned being short on time but was not otherwise demanding/rushed...just to the point"
+    }
+  ],
+  "timeTaken": 671.615,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 169.065,
+    "totalListeningTime": 281.984,
+    "overallCoverage": 1.6679028775914588,
+    "audioFiles": [
+      {
+        "id": "4804acf6-02a1-4384-90aa-f10ff64ed6fa",
+        "title": "Audio Sample 1",
+        "duration": 114.405,
+        "hasBeenListened": true,
+        "totalListeningTime": 172.554,
+        "coverage": 1.5082732398059526,
+        "playSessionCount": 70
+      },
+      {
+        "id": "6789f33a-b64f-41ab-a3f6-5214a7c296ac",
+        "title": "Audio Sample 2",
+        "duration": 54.66,
+        "hasBeenListened": true,
+        "totalListeningTime": 109.43,
+        "coverage": 2.0020124405415296,
+        "playSessionCount": 50
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to understand how RON scheduling works (Remote Online Notarization \u2014 where the signing is done fully online). You want to ask who is responsible for setting the RON appointment, where you can see the Signing Room, and when the confirmed details \u2014 like date, time, and notary info \u2014 will appear.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "prolificId": "67e0a8458369d92d9789b0b4",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "a8daa69e-e4e3-4668-b1c9-8635b8e4e652",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 373.592,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 289.52099999999996,
+    "totalListeningTime": 289.688,
+    "overallCoverage": 1.000576814807907,
+    "audioFiles": [
+      {
+        "id": "dcbf8bf7-0ec2-4259-8648-77657563e3b5",
+        "title": "Audio Sample 1",
+        "duration": 148.32,
+        "hasBeenListened": true,
+        "totalListeningTime": 148.416,
+        "coverage": 1.0006472491909386,
+        "playSessionCount": 56
+      },
+      {
+        "id": "17e71e78-de88-4cec-9d19-20219a179ecd",
+        "title": "Audio Sample 2",
+        "duration": 141.201,
+        "hasBeenListened": true,
+        "totalListeningTime": 141.272,
+        "coverage": 1.0005028293000757,
+        "playSessionCount": 49
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You already activated your account but forgot your password. You want help using the 'Forgot Password' flow, using the temporary password email, and then creating a new password.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}
