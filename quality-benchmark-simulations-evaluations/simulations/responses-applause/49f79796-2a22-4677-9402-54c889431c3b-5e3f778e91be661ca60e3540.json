@@ -1,0 +1,121 @@
+{
+  "prolificId": "5e3f778e91be661ca60e3540",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "49f79796-2a22-4677-9402-54c889431c3b",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": "Both explained their issues with the assistant, but the Left recording seemed to need a bit more help in the process. "
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": "Both made sure that the problems were addressed, but the Left recording seemed to take a few extra steps. The Right recording even left without actually clarifying that they found the notary's information - they just said they would check the contact tab and the call ended"
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "No difference between recordings",
+      "feedback": "Both acted in accordance to the scenario, but the Left recording seemed to want a bit more clarification of a few steps than the Right. This request for more clarification could be because the Left recording did not grasp things as fast as the Right"
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "No difference between recordings",
+      "feedback": "This is a hard question to answer. Both seemed clear, but the Left recording seemed to be a bit more confused about the process, while the Right conversation seemed to know a bit more of what to expect from the process."
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": "Again, both sounded willing to wait, but the Right conversation seemed to already know more of what to expect and moved quickly through the conversation"
+    }
+  ],
+  "timeTaken": 1041.499,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 328.18,
+    "totalListeningTime": 328.346,
+    "overallCoverage": 1.000505819976842,
+    "audioFiles": [
+      {
+        "id": "0aaa7de0-da06-46cd-9480-15e0cf0aa802",
+        "title": "Audio Sample 1",
+        "duration": 250.36,
+        "hasBeenListened": true,
+        "totalListeningTime": 250.454,
+        "coverage": 1.0003754593385525,
+        "playSessionCount": 119
+      },
+      {
+        "id": "fdb5d04d-6cae-4d57-8ca0-65f113b87b01",
+        "title": "Audio Sample 2",
+        "duration": 77.82,
+        "hasBeenListened": true,
+        "totalListeningTime": 77.892,
+        "coverage": 1.0009252120277563,
+        "playSessionCount": 43
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to upload the ink-signed paper documents. When you do, the system shows a message because the borrower hasn't finished their eSign (electronic signing). You want to know how to respond \u2014 whether to mark the eSign documents as already included or to remind the borrower to complete them. You also need to find the notary's contact information so you can follow up with them.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

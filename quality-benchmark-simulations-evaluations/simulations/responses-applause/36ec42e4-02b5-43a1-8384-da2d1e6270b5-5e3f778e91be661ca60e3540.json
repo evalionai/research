@@ -1,0 +1,121 @@
+{
+  "prolificId": "5e3f778e91be661ca60e3540",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "36ec42e4-02b5-43a1-8384-da2d1e6270b5",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": "I think they both \"colored inside the lines\" concerning the scenario, unless we are talking about slight differences, like Right Recording saying they only had a few minutes."
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "No difference between recordings",
+      "feedback": "Both seemed to act in accordance to the scenario parameters, even if the Left recording seemed to be a bit more thorough "
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": "I felt the left was a bit more natural - to me. The Right caller seemed hurried and there is a chance that English is not their 1st language, so I had a bit more of a hard time understanding what was being said initially."
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "No difference between recordings",
+      "feedback": "Both seemed to have a bit of an \"awkward\" feeling moment in their calls. \n- The Right recording sounded unsure and confused at mark 1:41 even when saying \"Alright. I understand\"\n- The Left recording sounded hurried from the start at mark 0:03 in stressing that they did not have much time"
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": "I can follow the Right recording, but I needed help by reading the transcript. I would not have need the same help with the Left recording"
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": "Both seemed cooperative in wanting their problems solved. The Right recording just seemed to be in a bit more of a rush and might not be a native English speaker"
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "No difference between recordings",
+      "feedback": "\"No difference\" does not seem like an accurate answer, but it is the only one that does not favor either recording.\n\n- The Right recording was more concise, but also seemed to be a bit more verbose, but not in a bad way. It seems as though the caller wanted to go over every step twice, just to make sure that the process was fully understood\n\n- The Left recording was very curt, but that person also mentioned they did not have much time. As previously stated, the idea that English is not their 1st language could be a factor"
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": "Neither seemed disrespectful, but the Left recording did seem a bit more formal in the exchange, which could be viewed as more polite."
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 2100.029,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 169.065,
+    "totalListeningTime": 169.395,
+    "overallCoverage": 1.0019519119865141,
+    "audioFiles": [
+      {
+        "id": "4804acf6-02a1-4384-90aa-f10ff64ed6fa",
+        "title": "Audio Sample 1",
+        "duration": 114.405,
+        "hasBeenListened": true,
+        "totalListeningTime": 114.647,
+        "coverage": 1.0021152921638041,
+        "playSessionCount": 63
+      },
+      {
+        "id": "6789f33a-b64f-41ab-a3f6-5214a7c296ac",
+        "title": "Audio Sample 2",
+        "duration": 54.66,
+        "hasBeenListened": true,
+        "totalListeningTime": 54.748,
+        "coverage": 1.0016099524332236,
+        "playSessionCount": 29
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to understand how RON scheduling works (Remote Online Notarization \u2014 where the signing is done fully online). You want to ask who is responsible for setting the RON appointment, where you can see the Signing Room, and when the confirmed details \u2014 like date, time, and notary info \u2014 will appear.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

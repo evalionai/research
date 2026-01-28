@@ -1,0 +1,121 @@
+{
+  "prolificId": "6678a6336d90a3a9973585c3",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "515b1fd8-4bc4-4abd-b1ff-a62316531dc4",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 568.621,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 500.9,
+    "totalListeningTime": 501.211,
+    "overallCoverage": 1.0006208824116591,
+    "audioFiles": [
+      {
+        "id": "59ed7298-b6df-40bf-8c71-ecc0dfac5152",
+        "title": "Audio Sample 1",
+        "duration": 379.24,
+        "hasBeenListened": true,
+        "totalListeningTime": 379.346,
+        "coverage": 1.0002795063811833,
+        "playSessionCount": 125
+      },
+      {
+        "id": "3ed660f4-3ffa-4285-a42a-ca86a2b1a8a5",
+        "title": "Audio Sample 2",
+        "duration": 121.66,
+        "hasBeenListened": true,
+        "totalListeningTime": 121.865,
+        "coverage": 1.0016850238369226,
+        "playSessionCount": 41
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "Inside a loan file you want to locate the banner details, find the Instructions section, and upload additional documents.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

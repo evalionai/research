@@ -1,0 +1,121 @@
+{
+  "prolificId": "6310bf2d4897ec60e9079b63",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "e995bee6-c502-4d16-986c-8f6703594531",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Right recording",
+      "feedback": "i'm assuming this statement means that the customer is the one guiding the conversation and solving the issues? if so, the right recording definitely aligns"
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Right recording",
+      "feedback": "definitely the right recording because for example, the customer mentioned activation email, which the support agent didn't bring up until the customer brought that up"
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Right recording",
+      "feedback": "the support agent and customer shared almost equal responsibility in left recording, while the customer led the majority of the conversation in the right recording "
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "Left recording",
+      "feedback": "the customer in the left recording sounds like AI, so their speech sounds more smoother"
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "Left recording",
+      "feedback": "i'm leaning toward the left recording because the customer seems to be an AI so the words they use and their speech overall just sounds clearer and easier to understand"
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": "since the customer and support agent share equal roles in the left recording, the customer's replies are more useful in the left recording since it actually sounds like the customer and support agent are having a proper conversation back and forth"
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "Left recording",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 1010.788,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 344.38,
+    "totalListeningTime": 356.105,
+    "overallCoverage": 1.034046692607004,
+    "audioFiles": [
+      {
+        "id": "25e23fee-3d18-42e4-b8b3-5ca97e8dd577",
+        "title": "Audio Sample 1",
+        "duration": 178.46,
+        "hasBeenListened": true,
+        "totalListeningTime": 186.203,
+        "coverage": 1.0433878740333968,
+        "playSessionCount": 78
+      },
+      {
+        "id": "2df2214d-8128-47b5-842d-15f435a0057a",
+        "title": "Audio Sample 2",
+        "duration": 165.92,
+        "hasBeenListened": true,
+        "totalListeningTime": 169.902,
+        "coverage": 1.0239995178399228,
+        "playSessionCount": 64
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You want to share a closing (loan signing process) with both an attorney and a notary, but one has no account and the other already does. Afterward you also want to confirm borrower-preferred scheduling slots.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

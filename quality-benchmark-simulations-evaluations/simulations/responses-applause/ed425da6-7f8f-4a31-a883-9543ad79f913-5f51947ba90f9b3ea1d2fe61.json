@@ -1,0 +1,121 @@
+{
+  "prolificId": "5f51947ba90f9b3ea1d2fe61",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "ed425da6-7f8f-4a31-a883-9543ad79f913",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": "I don't think either actually made u se of the temp password email but left directly mentioned it...or maybe both used it if its referring to the pw reset email"
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 746.32,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 321.161,
+    "totalListeningTime": 387.744,
+    "overallCoverage": 1.207319693237971,
+    "audioFiles": [
+      {
+        "id": "3d2b1859-bcd1-4007-817f-add13d5b8ebe",
+        "title": "Audio Sample 1",
+        "duration": 159.04,
+        "hasBeenListened": true,
+        "totalListeningTime": 199.227,
+        "coverage": 1.2526848591549298,
+        "playSessionCount": 81
+      },
+      {
+        "id": "3e62e383-b745-423d-8425-f60a9bca22c3",
+        "title": "Audio Sample 2",
+        "duration": 162.121,
+        "hasBeenListened": true,
+        "totalListeningTime": 188.517,
+        "coverage": 1.1628166616292768,
+        "playSessionCount": 87
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You already activated your account but forgot your password. You want help using the 'Forgot Password' flow, using the temporary password email, and then creating a new password.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "prolificId": "5e3f778e91be661ca60e3540",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "577bead0-95af-470f-b0c3-12bca6c69bbe",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": "Both recordings seemed to talk about the same things. Both recordings seemed very irritated with the situation"
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": "Both recordings seemed to talk about the same things. Both recordings seemed very irritated with the situation"
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": "Both recordings seemed to talk about the same things. Both recordings seemed very irritated with the situation"
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": "Both recordings seemed very frustrated, even while bringing up problems that were not in the scenario. For example, the Left recording mentioned a dislike of talking to AI and the Right recording mentioned taking their business elsewhere"
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "No difference between recordings",
+      "feedback": "Both recordings seemed to talk about the same things. Both recordings seemed very irritated with the situation"
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "No difference between recordings",
+      "feedback": "The \"pace\" sounded natural for both, even if the Right recording sounded more like AI"
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Left recording",
+      "feedback": "Both conversations had equal levels of irritation expressed, but the Right conversation took an awkward turn towards the end. At mark 2:51 the Assistant offered to transfer the call to a representative, which the user initially seemed to request at mark 2:36. The user seemed to be upset that the assistant was doing what it was asked at mark 2:57"
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": "Both recordings seemed to talk about the same things. Both recordings seemed very irritated with the situation"
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": "I am not sure how to answer this question. Both callers seemed to be demanding, but the Right recording seemed to be more eager to stay on the phone with the objective to convey that irritation "
+    }
+  ],
+  "timeTaken": 1090.548,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 342.55100000000004,
+    "totalListeningTime": 342.757,
+    "overallCoverage": 1.000601370306903,
+    "audioFiles": [
+      {
+        "id": "77ad2d97-ddf8-401f-a239-37bf3f1e4839",
+        "title": "Audio Sample 1",
+        "duration": 152.24,
+        "hasBeenListened": true,
+        "totalListeningTime": 152.343,
+        "coverage": 1.000676563321072,
+        "playSessionCount": 77
+      },
+      {
+        "id": "0bac4efe-3490-4e51-bf54-e2cfcd35426b",
+        "title": "Audio Sample 2",
+        "duration": 190.311,
+        "hasBeenListened": true,
+        "totalListeningTime": 190.414,
+        "coverage": 1.0005412193725007,
+        "playSessionCount": 95
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to understand how RON scheduling works (Remote Online Notarization \u2014 where the signing is done fully online). You want to ask who is responsible for setting the RON appointment, where you can see the Signing Room, and when the confirmed details \u2014 like date, time, and notary info \u2014 will appear.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

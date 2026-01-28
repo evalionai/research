@@ -1,0 +1,121 @@
+{
+  "prolificId": "66465610797810a106c2e4cd",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "57350a87-d568-43d7-a0d0-023cf422b5cc",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "Right recording",
+      "feedback": "The customer in the right recording asks where they can find the uploaded documents section (to confirm the document uploaded) but this isn't something that is mentioned in the scenario.  So I'm considering this as something extra and not part of the scenario"
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "Right recording",
+      "feedback": "I'm picking right recording because the customer mentions that the assistant is not giving her enough time to talk which kind of helped smooth the conversation going forward."
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "Right recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "Left recording",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 1081.061,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 511.14,
+    "totalListeningTime": 539.199,
+    "overallCoverage": 1.0548949407207417,
+    "audioFiles": [
+      {
+        "id": "30151049-8e36-467c-a081-00d05f875cd7",
+        "title": "Audio Sample 1",
+        "duration": 131.9,
+        "hasBeenListened": true,
+        "totalListeningTime": 154.782,
+        "coverage": 1.1734799090219863,
+        "playSessionCount": 67
+      },
+      {
+        "id": "59ed7298-b6df-40bf-8c71-ecc0dfac5152",
+        "title": "Audio Sample 2",
+        "duration": 379.24,
+        "hasBeenListened": true,
+        "totalListeningTime": 384.417,
+        "coverage": 1.013650986182892,
+        "playSessionCount": 139
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "Inside a loan file you want to locate the banner details, find the Instructions section, and upload additional documents.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}

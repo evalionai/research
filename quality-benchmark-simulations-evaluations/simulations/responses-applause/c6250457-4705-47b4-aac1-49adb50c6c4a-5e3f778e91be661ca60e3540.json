@@ -1,0 +1,121 @@
+{
+  "prolificId": "5e3f778e91be661ca60e3540",
+  "pageId": "study-pairwise-comparison",
+  "uuid": "c6250457-4705-47b4-aac1-49adb50c6c4a",
+  "survey_type": "comparison",
+  "responses": [
+    {
+      "questionId": "study-pairwise-comparison-001",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-002",
+      "response": "No difference between recordings",
+      "feedback": "Both seemed to explain their problems clearly, however, the Left recording seemed to follow a bit more a natural progression their method to get the answers they wanted"
+    },
+    {
+      "questionId": "study-pairwise-comparison-003",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-004",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-005",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-006",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-007",
+      "response": "No difference between recordings",
+      "feedback": "The \"pace\" seemed to be equal for both, however, the Left recording did sound more like AI."
+    },
+    {
+      "questionId": "study-pairwise-comparison-008",
+      "response": "No difference between recordings",
+      "feedback": "The Left recording sounded a bit more expressive and appreciative at the start, but they both seemed to be expressive towards the end of the calls"
+    },
+    {
+      "questionId": "study-pairwise-comparison-009",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-010",
+      "response": "No difference between recordings",
+      "feedback": "Let me clarify my answer: The Left recording seems a bit better to follow, but only slightly. I think this is because the Left recording asked all the clarifying, follow-up questions immediately, while the Right recording doubled back to revisit the question answers in later parts of the conversation"
+    },
+    {
+      "questionId": "study-pairwise-comparison-011",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-012",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-013",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-014",
+      "response": "No difference between recordings",
+      "feedback": ""
+    },
+    {
+      "questionId": "study-pairwise-comparison-015",
+      "response": "No difference between recordings",
+      "feedback": "No customer was disrespectful, however, the Left recording did seem to be a lot more appreciative at the start of the conversation. That said, the Right recording did express great thanks toward the end of the conversation"
+    },
+    {
+      "questionId": "study-pairwise-comparison-016",
+      "response": "No difference between recordings",
+      "feedback": ""
+    }
+  ],
+  "timeTaken": 1126.09,
+  "audioListeningAnalytics": {
+    "totalAudioDuration": 231.834,
+    "totalListeningTime": 232.16,
+    "overallCoverage": 1.0014061785587964,
+    "audioFiles": [
+      {
+        "id": "7c0aaae5-9af4-48bf-8245-88385634caae",
+        "title": "Audio Sample 1",
+        "duration": 121.834,
+        "hasBeenListened": true,
+        "totalListeningTime": 121.934,
+        "coverage": 1.0008207889423313,
+        "playSessionCount": 58
+      },
+      {
+        "id": "c2c01e6b-eb1a-4b6c-94c9-b8db864974a5",
+        "title": "Audio Sample 2",
+        "duration": 110,
+        "hasBeenListened": true,
+        "totalListeningTime": 110.226,
+        "coverage": 1.0020545454545455,
+        "playSessionCount": 58
+      }
+    ]
+  },
+  "survey": {
+    "title": "Pairwise Comparisons Survey",
+    "scenario": "You need to understand how RON scheduling works (Remote Online Notarization \u2014 where the signing is done fully online). You want to ask who is responsible for setting the RON appointment, where you can see the Signing Room, and when the confirmed details \u2014 like date, time, and notary info \u2014 will appear.",
+    "totalQuestions": 16,
+    "audioFiles": 2,
+    "transcripts": 2
+  }
+}
